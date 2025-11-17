@@ -129,15 +129,20 @@ This project is deployed using **Streamlit Cloud**.
 
 ---
 
-## 👨‍💻 Author
-**Aniket Verma**  
-Machine Learning & Data Science Enthusiast  
+## 👨‍💻 Authors:
+- **Aniket Verma**
+- **Harsh Kumar**
+- **Vansh Pratap Gautam**
+- **Kapil Upadhyay**
 
 ---
 
 ## 🤝 Contributions
-Pull requests are welcome!  
-For major changes, please open an issue first.
+- **Aniket Verma**
+- **Harsh Kumar**
+- **Vansh Pratap Gautam**
+- **Kapil Upadhyay**
+
 
 ---
 
