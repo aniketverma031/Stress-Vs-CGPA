@@ -1,0 +1,953 @@
+Timestamp,AGE,CGPA,GENDER,Year of Study,Sleeping Hours,Physical Activity,Stress level,Stress Impact on Academics,Stress Hotspot,Coping with SocialMedia,Social Media Impact on Academics
+25/08/2025 11:11:07,22,7.7,Male,2nd Year,7.0,Yes,9,,Assignment/project deadlines,Yes,
+25/08/2025 11:39:56,22,8.0,Male,1st Year,7.0,Yes,5,,Assignment/project deadlines,Yes,
+25/08/2025 11:51:09,22,9.0,Male,3rd Year,7.0,Yes,5,,Mid-semester exams,Yes,
+25/08/2025 12:45:01,21,7.95,Female,4th Year,4.0,No,6,Maybe,Assignment/project deadlines,No,
+25/08/2025 12:46:14,22,5.2,Male,3rd Year,4.0,No,5,No,End-semester exams,Yes,
+25/08/2025 13:07:57,23,5.4,Male,2nd Year,5.0,Yes,10,Yes,Start of semester,Yes,
+25/08/2025 13:08:05,23,9.99,Male,2nd Year,4.0,No,1,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:08:44,18,5.79,Female,4th Year,9.0,Yes,4,Yes,Start of semester,Yes,
+25/08/2025 13:09:09,19,8.38,Female,1st Year,8.0,No,5,Maybe,Start of semester,No,
+25/08/2025 13:09:42,25,8.54,Male,4th Year,8.0,Yes,6,No,Start of semester,Yes,
+25/08/2025 13:10:14,22,5.56,Female,2nd Year,5.0,Yes,4,Yes,End-semester exams,Yes,
+25/08/2025 13:10:30,22,5.17,Male,3rd Year,5.0,Yes,6,Yes,Start of semester,Yes,
+25/08/2025 13:11:28,20,7.58,Male,1st Year,9.0,No,4,Yes,Mid-semester exams,No,
+25/08/2025 13:12:17,23,9.32,Male,4th Year,5.0,Yes,1,No,Mid-semester exams,Yes,
+25/08/2025 13:12:56,18,7.58,Male,1st Year,6.0,No,9,Yes,Start of semester,Yes,
+25/08/2025 13:13:36,25,9.84,Male,4th Year,6.0,No,5,Yes,Mid-semester exams,Yes,
+25/08/2025 13:14:41,19,5.21,Female,3rd Year,9.0,Yes,8,Yes,Mid-semester exams,Yes,
+25/08/2025 13:15:29,20,5.25,Female,4th Year,6.0,No,4,No,Assignment/project deadlines,No,
+25/08/2025 13:16:11,21,7.64,Female,1st Year,9.0,Yes,9,Yes,Start of semester,Yes,
+25/08/2025 13:16:58,24,8.02,Female,1st Year,9.0,No,8,No,Start of semester,No,
+25/08/2025 13:17:28,19,9.11,Female,4th Year,7.0,Yes,1,Yes,Mid-semester exams,Yes,
+25/08/2025 13:18:03,25,8.89,Female,3rd Year,9.0,Yes,4,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:18:44,23,9.69,Female,3rd Year,7.0,Yes,7,No,End-semester exams,No,
+25/08/2025 13:19:33,23,5.98,Female,3rd Year,7.0,Yes,7,No,End-semester exams,No,
+25/08/2025 13:20:07,19,5.88,Male,2nd Year,7.0,Yes,9,Maybe,Start of semester,No,
+25/08/2025 13:20:48,19,5.88,Male,2nd Year,7.0,Yes,9,Maybe,Start of semester,No,
+25/08/2025 13:21:27,21,9.64,Male,4th Year,6.0,No,5,Maybe,End-semester exams,Yes,
+25/08/2025 13:22:07,23,7.71,Female,4th Year,6.0,No,8,Maybe,End-semester exams,No,
+25/08/2025 13:22:45,19,8.21,Female,2nd Year,5.0,Yes,8,Maybe,Assignment/project deadlines,Yes,
+25/08/2025 13:23:34,20,8.85,Female,3rd Year,6.0,No,3,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:24:20,20,8.85,Female,3rd Year,6.0,No,3,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:25:07,20,8.15,Female,1st Year,8.0,No,9,Maybe,Start of semester,No,
+25/08/2025 13:25:43,25,6.22,Female,1st Year,5.0,Yes,8,No,Assignment/project deadlines,No,
+25/08/2025 13:26:30,25,9.42,Female,3rd Year,5.0,No,9,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:27:00,22,9.88,Female,2nd Year,4.0,Yes,1,Yes,Assignment/project deadlines,No,
+25/08/2025 13:27:41,23,9.51,Male,2nd Year,9.0,Yes,7,Yes,Mid-semester exams,No,
+25/08/2025 13:28:28,20,8.51,Male,2nd Year,9.0,Yes,6,Yes,End-semester exams,No,
+25/08/2025 13:29:03,18,6.77,Female,3rd Year,9.0,Yes,4,Yes,End-semester exams,No,
+25/08/2025 13:29:44,25,5.52,Male,3rd Year,5.0,Yes,9,Yes,Mid-semester exams,No,
+25/08/2025 13:30:33,23,7.2,Male,4th Year,8.0,Yes,8,Maybe,Start of semester,No,
+25/08/2025 13:31:17,25,6.14,Male,1st Year,4.0,Yes,9,Maybe,Assignment/project deadlines,Yes,
+25/08/2025 13:31:58,23,6.26,Female,2nd Year,9.0,No,2,Maybe,Start of semester,No,
+25/08/2025 13:32:42,21,5.19,Male,3rd Year,9.0,No,5,Yes,End-semester exams,Yes,
+25/08/2025 13:33:27,20,5.81,Female,4th Year,8.0,No,9,Maybe,End-semester exams,No,
+25/08/2025 13:34:12,18,7.72,Male,4th Year,5.0,No,7,Yes,Start of semester,Yes,
+25/08/2025 13:34:48,25,5.47,Female,2nd Year,4.0,Yes,10,No,Start of semester,No,
+25/08/2025 13:35:19,23,6.35,Male,3rd Year,6.0,Yes,2,Maybe,Mid-semester exams,Yes,
+25/08/2025 13:35:54,21,5.65,Female,2nd Year,5.0,No,9,Yes,Start of semester,No,
+25/08/2025 13:36:31,19,5.92,Female,1st Year,8.0,No,4,Yes,Mid-semester exams,No,
+25/08/2025 13:37:41,19,9.5,Male,2nd Year,6.0,Yes,8,Yes,End-semester exams,Yes,
+25/08/2025 13:38:27,22,8.74,Male,3rd Year,5.0,Yes,3,Yes,Assignment/project deadlines,No,
+25/08/2025 13:39:04,21,8.15,Female,2nd Year,8.0,No,7,Yes,End-semester exams,Yes,
+25/08/2025 13:39:34,18,8.66,Female,1st Year,8.0,No,3,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:41:40,24,7.28,Female,3rd Year,7.0,No,6,Yes,Assignment/project deadlines,No,
+25/08/2025 13:42:29,24,7.07,Female,3rd Year,5.0,No,8,No,Assignment/project deadlines,No,
+25/08/2025 13:43:12,23,7.2,Male,3rd Year,8.0,Yes,2,Maybe,End-semester exams,Yes,
+25/08/2025 13:43:59,23,5.12,Female,4th Year,9.0,Yes,6,Maybe,Start of semester,Yes,
+25/08/2025 13:44:46,19,5.02,Female,1st Year,4.0,Yes,8,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:45:47,24,5.15,Male,4th Year,4.0,No,3,Yes,Mid-semester exams,No,
+25/08/2025 13:46:32,19,6.14,Male,2nd Year,9.0,No,4,No,Start of semester,Yes,
+25/08/2025 13:47:11,21,9.6,Female,4th Year,7.0,Yes,6,Maybe,End-semester exams,No,
+25/08/2025 13:47:50,18,6.1,Female,1st Year,8.0,No,8,Yes,Start of semester,Yes,
+25/08/2025 13:48:30,25,6.53,Female,4th Year,7.0,Yes,5,Maybe,Mid-semester exams,No,
+25/08/2025 13:49:17,18,6.23,Male,1st Year,9.0,No,3,Maybe,Assignment/project deadlines,No,
+25/08/2025 13:50:26,22,9.26,Female,4th Year,8.0,Yes,1,Maybe,Mid-semester exams,No,
+25/08/2025 13:51:17,18,8.68,Male,2nd Year,4.0,No,8,Maybe,End-semester exams,Yes,
+25/08/2025 13:52:18,20,7.81,Male,4th Year,9.0,Yes,8,Yes,Assignment/project deadlines,No,
+25/08/2025 13:53:08,19,7.61,Male,1st Year,4.0,Yes,1,No,End-semester exams,Yes,
+25/08/2025 13:53:48,22,8.75,Male,2nd Year,5.0,No,8,No,Mid-semester exams,Yes,
+25/08/2025 13:54:19,22,7.4,Male,2nd Year,7.0,Yes,5,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:54:26,22,9.08,Female,2nd Year,4.0,Yes,6,No,End-semester exams,No,
+25/08/2025 13:55:15,19,5.61,Female,1st Year,6.0,No,8,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:55:56,18,5.8,Male,2nd Year,7.0,No,4,No,Assignment/project deadlines,No,
+25/08/2025 13:56:48,23,8.38,Male,3rd Year,9.0,No,4,No,Mid-semester exams,No,
+25/08/2025 13:57:25,19,6.17,Female,2nd Year,5.0,Yes,7,Yes,Start of semester,No,
+25/08/2025 13:58:05,22,9.25,Female,3rd Year,8.0,No,7,Maybe,Mid-semester exams,Yes,
+25/08/2025 13:58:37,23,8.66,Male,2nd Year,7.0,No,6,Maybe,End-semester exams,Yes,
+25/08/2025 13:59:22,18,6.74,Male,2nd Year,5.0,No,8,Yes,Mid-semester exams,Yes,
+25/08/2025 13:59:57,24,7.54,Male,4th Year,9.0,No,8,Maybe,Mid-semester exams,No,
+25/08/2025 14:00:33,21,9.1,Female,2nd Year,9.0,Yes,2,Maybe,Assignment/project deadlines,Yes,
+25/08/2025 14:01:15,20,5.96,Male,3rd Year,6.0,Yes,8,Yes,Start of semester,Yes,
+25/08/2025 14:01:53,23,6.21,Female,3rd Year,7.0,Yes,4,No,Mid-semester exams,No,
+25/08/2025 14:02:30,22,5.21,Male,2nd Year,7.0,Yes,2,Yes,Mid-semester exams,Yes,
+25/08/2025 14:03:05,25,5.81,Male,4th Year,7.0,No,6,Yes,Start of semester,Yes,
+25/08/2025 14:03:39,21,6.99,Female,2nd Year,9.0,No,10,Yes,Start of semester,Yes,
+25/08/2025 14:05:10,19,8.17,Female,2nd Year,8.0,Yes,1,Maybe,Assignment/project deadlines,No,
+25/08/2025 14:06:39,20,7.91,Female,1st Year,9.0,No,6,Yes,Assignment/project deadlines,Yes,
+25/08/2025 15:11:57,20,8.2,Female,1st Year,7.0,No,8,Maybe,Mid-semester exams,Yes,
+25/08/2025 15:12:32,22,9.1,Female,3rd Year,7.5,No,10,Yes,Assignment/project deadlines,Yes,
+25/08/2025 15:12:59,21,6.6,Male,3rd Year,9.0,Yes,5,No,End-semester exams,Yes,
+25/08/2025 15:13:33,23,6.9,Male,4th Year,8.0,Yes,1,No,End-semester exams,Yes,
+25/08/2025 15:14:07,25,7.4,Male,3rd Year,5.0,Yes,4,Maybe,Mid-semester exams,Yes,
+25/08/2025 15:14:34,22,5.5,Male,2nd Year,9.0,No,5,No,Assignment/project deadlines,No,
+25/08/2025 15:15:02,20,9.2,Female,2nd Year,5.0,No,9,Yes,Mid-semester exams,No,
+25/08/2025 15:15:29,23,67.0,Female,2nd Year,8.0,No,4,Maybe,Mid-semester exams,Yes,
+25/08/2025 15:16:00,19,8.0,Female,1st Year,7.0,No,7,Maybe,End-semester exams,Yes,
+25/08/2025 15:16:29,21,8.0,Female,2nd Year,6.0,Yes,6,Maybe,Mid-semester exams,Yes,
+25/08/2025 15:16:47,23,9.0,Female,2nd Year,8.0,Yes,10,Yes,Start of semester,Yes,
+25/08/2025 15:17:08,24,6.0,Male,2nd Year,8.0,No,1,No,Mid-semester exams,No,
+25/08/2025 15:17:34,22,7.0,Female,2nd Year,6.0,Yes,10,No,Mid-semester exams,Yes,
+25/08/2025 15:17:58,22,4.0,Male,2nd Year,10.0,Yes,1,No,End-semester exams,Yes,
+25/08/2025 15:18:33,24,8.5,Female,2nd Year,6.5,Yes,7,Yes,Mid-semester exams,Yes,
+25/08/2025 15:19:00,23,7.5,Female,2nd Year,7.5,Yes,10,Yes,Mid-semester exams,Yes,
+25/08/2025 15:19:27,21,7.0,Male,2nd Year,7.0,Yes,7,No,Assignment/project deadlines,Yes,
+25/08/2025 15:21:30,21,8.2,Female,3rd Year,5.0,No,6,Yes,End-semester exams,No,
+25/08/2025 15:22:00,23,8.6,Male,2nd Year,6.5,Yes,6,Maybe,End-semester exams,Yes,
+25/08/2025 15:22:40,24,7.5,Male,2nd Year,7.5,Yes,10,No,End-semester exams,Yes,
+25/08/2025 15:25:10,26,6.8,Male,4th Year,6.0,No,1,No,Assignment/project deadlines,Yes,
+25/08/2025 15:25:41,22,8.6,Male,3rd Year,7.5,No,3,No,Mid-semester exams,Yes,
+25/08/2025 15:26:15,21,7.8,Male,2nd Year,5.0,No,3,Maybe,Mid-semester exams,No,
+25/08/2025 15:26:46,19,8.0,Male,1st Year,6.0,Yes,6,Maybe,Start of semester,Yes,
+25/08/2025 15:27:38,23,8.2,Male,2nd Year,7.0,No,7,Maybe,End-semester exams,No,
+25/08/2025 15:28:04,24,7.3,Male,2nd Year,6.0,Yes,6,Yes,Assignment/project deadlines,Yes,
+25/08/2025 15:28:27,22,4.0,Male,2nd Year,11.0,No,1,No,End-semester exams,No,
+25/08/2025 15:28:52,25,6.9,Male,4th Year,6.0,Yes,8,Maybe,End-semester exams,Yes,
+25/08/2025 15:29:23,25,7.8,Male,3rd Year,7.0,Yes,5,Maybe,End-semester exams,Yes,
+25/08/2025 15:30:25,18,8.0,Female,1st Year,6.0,No,4,Maybe,Mid-semester exams,Yes,
+25/08/2025 15:30:59,21,7.0,Female,2nd Year,8.0,Yes,6,Maybe,Mid-semester exams,No,
+25/08/2025 15:31:24,19,9.0,Male,1st Year,5.0,No,10,Yes,End-semester exams,No,
+25/08/2025 15:31:54,23,7.5,Female,2nd Year,7.0,No,7,No,End-semester exams,Yes,
+25/08/2025 15:32:21,22,6.5,Male,3rd Year,6.0,Yes,6,Maybe,End-semester exams,No,
+25/08/2025 16:15:42,24,5.08,Male,2nd Year,7.0,No,4,Yes,Start of semester,No,
+25/08/2025 16:17:53,21,6.48,Female,4th Year,6.0,Yes,3,Yes,Mid-semester exams,No,
+25/08/2025 16:19:00,25,6.15,Male,1st Year,6.0,No,8,No,Mid-semester exams,No,
+25/08/2025 16:20:02,23,8.85,Male,1st Year,8.0,No,7,Yes,End-semester exams,No,
+25/08/2025 16:20:58,22,7.35,Female,4th Year,9.0,Yes,6,Maybe,Start of semester,Yes,
+25/08/2025 16:21:49,20,5.48,Female,3rd Year,9.0,Yes,7,Maybe,End-semester exams,No,
+25/08/2025 16:23:04,22,8.32,Male,2nd Year,6.0,Yes,8,No,Assignment/project deadlines,Yes,
+25/08/2025 16:24:13,25,8.31,Female,3rd Year,8.0,No,1,Maybe,Start of semester,Yes,
+25/08/2025 16:25:23,19,6.03,Male,3rd Year,9.0,Yes,4,No,End-semester exams,No,
+25/08/2025 16:26:01,21,9.02,Male,1st Year,9.0,Yes,9,Yes,Assignment/project deadlines,Yes,
+25/08/2025 16:26:35,22,8.93,Female,3rd Year,6.0,Yes,8,Yes,Mid-semester exams,No,
+25/08/2025 16:27:04,22,7.7,Male,4th Year,6.0,Yes,10,Maybe,Mid-semester exams,Yes,
+25/08/2025 16:27:29,25,6.06,Male,3rd Year,4.0,No,5,Maybe,Start of semester,Yes,
+25/08/2025 16:27:49,25,8.46,Male,4th Year,7.0,Yes,8,No,Mid-semester exams,Yes,
+25/08/2025 16:28:20,18,7.55,Female,2nd Year,5.0,Yes,5,Maybe,Assignment/project deadlines,Yes,
+25/08/2025 16:28:46,21,9.79,Male,3rd Year,5.0,No,9,Yes,Assignment/project deadlines,Yes,
+25/08/2025 16:29:19,19,7.17,Female,2nd Year,5.0,No,5,Maybe,Mid-semester exams,Yes,
+25/08/2025 16:29:49,22,8.26,Male,1st Year,5.0,Yes,5,Yes,Assignment/project deadlines,Yes,
+25/08/2025 16:30:15,22,7.99,Female,3rd Year,8.0,Yes,5,Maybe,Mid-semester exams,Yes,
+25/08/2025 16:30:43,22,6.34,Male,2nd Year,4.0,Yes,9,Yes,Mid-semester exams,Yes,
+25/08/2025 16:31:04,25,8.41,Female,4th Year,4.0,No,7,Maybe,Start of semester,Yes,
+25/08/2025 16:31:28,25,6.52,Male,3rd Year,4.0,No,10,No,End-semester exams,Yes,
+25/08/2025 16:31:59,22,5.5,Female,1st Year,5.0,No,5,Maybe,Mid-semester exams,Yes,
+25/08/2025 16:32:24,22,6.35,Male,2nd Year,9.0,Yes,6,No,End-semester exams,Yes,
+25/08/2025 16:32:51,20,5.42,Male,1st Year,5.0,No,5,No,Mid-semester exams,Yes,
+25/08/2025 16:33:20,20,5.56,Male,3rd Year,4.0,No,9,Yes,Start of semester,Yes,
+25/08/2025 16:33:44,18,6.09,Male,3rd Year,9.0,No,7,Yes,Assignment/project deadlines,Yes,
+25/08/2025 16:34:08,23,5.93,Female,4th Year,6.0,Yes,9,Yes,Assignment/project deadlines,Yes,
+25/08/2025 16:34:30,25,9.28,Female,4th Year,6.0,No,7,Yes,Assignment/project deadlines,Yes,
+25/08/2025 16:34:52,22,8.0,Female,3rd Year,5.0,Yes,5,Yes,Mid-semester exams,Yes,
+25/08/2025 16:35:20,18,6.24,Female,4th Year,4.0,No,10,No,Mid-semester exams,Yes,
+2025-01-01 00:00,20,4.28,Male,2nd,,,9,,Exams,No,High
+2025-01-01 00:00,22,6.86,Female,1st,,,5,,Exams,No,High
+2025-01-01 00:00,18,9.7,Female,1st,,,3,,Assignments,No,Low
+2025-01-01 00:00,23,8.93,Female,2nd,,,2,,Social Media,No,Low
+2025-01-01 00:00,21,7.41,Female,2nd,,,4,,Family,No,High
+2025-01-01 00:00,18,6.25,Female,1st,,,5,,Exams,No,Medium
+2025-01-01 00:00,24,4.28,Female,4th,,,9,,Family,No,High
+2025-01-01 00:00,18,6.47,Female,2nd,,,6,,Social Media,Yes,Medium
+2025-01-01 00:00,23,8.4,Male,2nd,,,1,,Exams,Yes,Medium
+2025-01-01 00:00,22,8.21,Female,3rd,,,3,,Assignments,No,Low
+2025-01-01 00:00,24,5.13,Male,3rd,,,7,,Family,Yes,Low
+2025-01-01 00:00,18,4.28,Male,3rd,,,7,,Social Media,Yes,Medium
+2025-01-01 00:00,24,9.09,Male,2nd,,,1,,Social Media,Yes,High
+2025-01-01 00:00,20,5.6,Female,3rd,,,9,,Exams,No,Low
+2025-01-01 00:00,20,9.36,Male,1st,,,2,,Family,No,High
+2025-01-01 00:00,21,4.3,Male,3rd,,,7,,Family,No,Medium
+2025-01-01 00:00,24,6.71,Female,4th,,,4,,Assignments,Yes,High
+2025-01-01 00:00,22,9.24,Male,2nd,,,3,,Family,No,Low
+2025-01-01 00:00,18,7.6,Female,1st,,,6,,Social Media,Yes,Medium
+2025-01-01 00:00,21,8.52,Male,3rd,,,1,,Assignments,Yes,Low
+2025-01-01 00:00,24,5.18,Male,2nd,,,8,,Social Media,Yes,High
+2025-01-01 00:00,24,8.93,Female,1st,,,3,,Exams,Yes,Medium
+2025-01-01 00:00,24,4.4,Female,3rd,,,8,,Exams,Yes,Medium
+2025-01-01 00:00,20,7.6,Male,4th,,,6,,Social Media,Yes,Medium
+2025-01-01 00:00,24,4.46,Male,2nd,,,10,,Social Media,Yes,Medium
+2025-01-01 00:00,19,8.24,Male,3rd,,,3,,Social Media,No,Low
+2025-01-01 00:00,19,8.51,Male,2nd,,,3,,Exams,No,Low
+2025-01-01 00:00,22,7.45,Female,4th,,,4,,Assignments,Yes,High
+2025-01-01 00:00,19,9.75,Female,3rd,,,1,,Assignments,No,Medium
+2025-01-01 00:00,18,4.86,Female,2nd,,,10,,Family,No,Low
+2025-01-01 00:00,24,4.43,Male,3rd,,,10,,Exams,Yes,Low
+2025-01-01 00:00,19,5.44,Male,1st,,,8,,Exams,Yes,Low
+2025-01-01 00:00,22,9.79,Female,2nd,,,3,,Assignments,Yes,High
+2025-01-01 00:00,18,8.87,Female,3rd,,,2,,Family,No,High
+2025-01-01 00:00,21,7.4,Male,1st,,,6,,Family,No,Low
+2025-01-01 00:00,20,5.69,Male,1st,,,9,,Assignments,Yes,High
+2025-01-01 00:00,24,7.65,Female,1st,,,5,,Exams,Yes,Medium
+2025-01-01 00:00,21,6.91,Male,3rd,,,5,,Social Media,Yes,Medium
+2025-01-01 00:00,20,4.4,Male,4th,,,8,,Exams,No,Low
+2025-01-01 00:00,18,6.37,Female,1st,,,5,,Social Media,No,Low
+2025-01-01 00:00,19,4.5,Female,4th,,,9,,Family,Yes,Medium
+2025-01-01 00:00,20,7.59,Male,4th,,,5,,Assignments,No,Medium
+2025-01-01 00:00,23,4.98,Male,2nd,,,7,,Family,Yes,High
+2025-01-01 00:00,21,7.69,Female,1st,,,6,,Family,No,Medium
+2025-01-01 00:00,24,5.05,Female,2nd,,,8,,Family,No,Low
+2025-01-01 00:00,20,4.68,Female,2nd,,,7,,Exams,Yes,Low
+2025-01-01 00:00,19,8.22,Male,3rd,,,2,,Assignments,Yes,Low
+2025-01-01 00:00,24,4.88,Female,3rd,,,7,,Assignments,Yes,Low
+2025-01-01 00:00,24,6.69,Female,4th,,,5,,Exams,No,Medium
+2025-01-01 00:00,19,9.75,Female,4th,,,2,,Family,Yes,Medium
+2025-01-01 00:00,21,5.37,Female,4th,,,8,,Family,No,Low
+2025-01-01 00:00,19,8.81,Male,2nd,,,2,,Social Media,Yes,Medium
+2025-01-01 00:00,22,4.38,Female,3rd,,,9,,Assignments,Yes,Medium
+2025-01-01 00:00,18,6.57,Male,1st,,,4,,Social Media,Yes,Medium
+2025-01-01 00:00,19,9.22,Female,1st,,,3,,Exams,Yes,Medium
+2025-01-01 00:00,19,9.18,Male,3rd,,,2,,Exams,No,Low
+2025-01-01 00:00,23,8.54,Female,1st,,,3,,Assignments,Yes,Low
+2025-01-01 00:00,19,9.0,Male,2nd,,,1,,Exams,No,Low
+2025-01-01 00:00,23,4.4,Female,3rd,,,7,,Family,No,High
+2025-01-01 00:00,23,4.33,Male,4th,,,8,,Assignments,Yes,High
+2025-01-01 00:00,21,5.49,Female,4th,,,7,,Family,No,Low
+2025-01-01 00:00,18,8.73,Male,4th,,,1,,Social Media,No,Medium
+2025-01-01 00:00,19,9.19,Female,3rd,,,3,,Family,No,High
+2025-01-01 00:00,24,6.88,Female,4th,,,6,,Assignments,Yes,Medium
+2025-01-01 00:00,24,5.19,Female,1st,,,10,,Family,Yes,Low
+2025-01-01 00:00,24,9.16,Female,4th,,,2,,Family,No,Medium
+2025-01-01 00:00,20,6.31,Female,4th,,,6,,Social Media,No,Low
+2025-01-01 00:00,20,6.62,Male,1st,,,6,,Social Media,No,Medium
+2025-01-01 00:00,22,5.68,Female,3rd,,,9,,Exams,No,Medium
+2025-01-01 00:00,23,8.66,Female,1st,,,1,,Exams,Yes,Low
+2025-01-01 00:00,23,9.07,Male,4th,,,2,,Family,No,High
+2025-01-01 00:00,19,8.76,Male,1st,,,3,,Family,Yes,Medium
+2025-01-01 00:00,18,7.77,Female,1st,,,4,,Social Media,No,Medium
+2025-01-01 00:00,20,5.78,Female,2nd,,,8,,Exams,No,Medium
+2025-01-01 00:00,22,8.36,Female,4th,,,2,,Social Media,Yes,Medium
+2025-01-01 00:00,23,5.51,Female,1st,,,10,,Exams,Yes,Medium
+2025-01-01 00:00,19,9.27,Male,3rd,,,3,,Exams,Yes,Medium
+2025-01-01 00:00,24,8.23,Female,1st,,,2,,Social Media,No,Medium
+2025-01-01 00:00,24,7.27,Female,3rd,,,5,,Exams,No,Medium
+2025-01-01 00:00,21,7.2,Male,4th,,,5,,Exams,Yes,Low
+2025-01-01 00:00,18,5.59,Male,1st,,,10,,Family,Yes,Low
+2025-01-01 00:00,22,8.22,Male,1st,,,2,,Assignments,Yes,Low
+2025-01-01 00:00,20,7.54,Male,3rd,,,4,,Assignments,No,Medium
+2025-01-01 00:00,20,6.68,Male,1st,,,4,,Assignments,Yes,Low
+2025-01-01 00:00,18,8.27,Male,4th,,,3,,Family,Yes,Medium
+2025-01-01 00:00,21,6.81,Male,3rd,,,4,,Exams,No,Medium
+2025-01-01 00:00,23,6.86,Male,1st,,,6,,Exams,Yes,Medium
+2025-01-01 00:00,19,6.65,Male,3rd,,,4,,Social Media,Yes,High
+2025-01-01 00:00,22,5.48,Female,4th,,,10,,Family,Yes,High
+2025-01-01 00:00,22,6.64,Male,2nd,,,5,,Exams,No,Medium
+2025-01-01 00:00,23,7.18,Male,4th,,,5,,Assignments,Yes,High
+2025-01-01 00:00,24,8.69,Male,4th,,,3,,Family,Yes,Medium
+2025-01-01 00:00,19,9.05,Male,2nd,,,3,,Assignments,Yes,Low
+2025-01-01 00:00,21,7.02,Female,2nd,,,6,,Social Media,Yes,High
+2025-01-01 00:00,22,5.09,Female,2nd,,,8,,Exams,Yes,Medium
+2025-01-01 00:00,19,8.6,Male,2nd,,,3,,Family,No,High
+2025-01-01 00:00,18,7.56,Male,1st,,,6,,Exams,No,Medium
+2025-01-01 00:00,19,5.07,Male,4th,,,10,,Assignments,Yes,Medium
+2025-01-01 00:00,24,4.96,Male,4th,,,10,,Exams,Yes,Low
+2025-01-01 00:00,21,4.6,Female,2nd,,,10,,Social Media,Yes,High
+2025-01-01 00:00,22,5.79,Female,2nd,,,9,,Social Media,Yes,Low
+2025-01-01 00:00,20,8.91,Male,4th,,,1,,Assignments,No,Medium
+2025-01-01 00:00,23,5.71,Female,3rd,,,9,,Social Media,No,High
+2025-01-01 00:00,21,6.21,Male,3rd,,,4,,Social Media,Yes,High
+2025-01-01 00:00,22,4.33,Male,4th,,,7,,Assignments,Yes,Medium
+2025-01-01 00:00,23,5.37,Female,4th,,,9,,Family,Yes,High
+2025-01-01 00:00,19,9.26,Male,3rd,,,1,,Exams,Yes,High
+2025-01-01 00:00,22,4.34,Female,2nd,,,8,,Family,No,Medium
+2025-01-01 00:00,21,7.8,Female,1st,,,4,,Social Media,Yes,Low
+2025-01-01 00:00,24,9.66,Male,1st,,,3,,Exams,No,Medium
+2025-01-01 00:00,24,5.23,Female,1st,,,8,,Family,No,Low
+2025-01-01 00:00,23,8.49,Female,1st,,,1,,Family,No,High
+2025-01-01 00:00,20,4.58,Female,2nd,,,10,,Family,No,High
+2025-01-01 00:00,22,7.23,Male,4th,,,5,,Exams,No,Medium
+2025-01-01 00:00,19,9.12,Male,2nd,,,3,,Assignments,No,Low
+2025-01-01 00:00,24,9.44,Female,3rd,,,3,,Exams,No,Medium
+2025-01-01 00:00,24,5.13,Male,4th,,,9,,Assignments,No,High
+2025-01-01 00:00,18,4.76,Female,3rd,,,9,,Social Media,No,Medium
+2025-01-01 00:00,23,9.52,Female,3rd,,,3,,Exams,Yes,Medium
+2025-01-01 00:00,21,4.85,Female,2nd,,,9,,Social Media,Yes,High
+2025-01-01 00:00,22,7.42,Male,2nd,,,5,,Assignments,No,High
+2025-01-01 00:00,21,8.38,Female,3rd,,,3,,Family,Yes,Medium
+2025-01-01 00:00,21,6.68,Male,4th,,,5,,Social Media,Yes,Medium
+2025-01-01 00:00,18,6.97,Female,2nd,,,6,,Exams,Yes,High
+2025-01-01 00:00,24,9.28,Female,3rd,,,3,,Social Media,No,Low
+2025-01-01 00:00,24,6.5,Male,4th,,,6,,Assignments,No,High
+2025-01-01 00:00,20,9.53,Female,4th,,,1,,Social Media,Yes,Low
+2025-01-01 00:00,20,5.2,Male,3rd,,,8,,Social Media,No,High
+2025-01-01 00:00,19,6.78,Male,2nd,,,5,,Assignments,Yes,Low
+2025-01-01 00:00,22,4.89,Male,4th,,,9,,Family,No,Low
+2025-01-01 00:00,20,8.32,Male,4th,,,1,,Family,Yes,High
+2025-01-01 00:00,19,5.22,Male,1st,,,9,,Social Media,Yes,Medium
+2025-01-01 00:00,19,7.62,Male,1st,,,4,,Exams,No,Medium
+2025-01-01 00:00,18,6.8,Male,4th,,,5,,Exams,No,Medium
+2025-01-01 00:00,19,8.21,Female,4th,,,1,,Social Media,Yes,Medium
+2025-01-01 00:00,22,9.75,Female,1st,,,1,,Family,Yes,Low
+2025-01-01 00:00,22,5.77,Male,4th,,,7,,Assignments,No,Medium
+2025-01-01 00:00,20,9.69,Female,2nd,,,2,,Exams,Yes,High
+2025-01-01 00:00,18,5.69,Male,1st,,,10,,Exams,No,Medium
+2025-01-01 00:00,23,4.91,Female,2nd,,,8,,Assignments,Yes,High
+2025-01-01 00:00,19,7.26,Male,1st,,,4,,Family,No,High
+2025-01-01 00:00,24,5.39,Male,4th,,,10,,Exams,No,Low
+2025-01-01 00:00,22,9.02,Female,2nd,,,3,,Family,No,Low
+2025-01-01 00:00,18,4.41,Female,1st,,,7,,Exams,No,Medium
+2025-01-01 00:00,18,4.58,Male,4th,,,7,,Family,Yes,Low
+2025-01-01 00:00,19,4.62,Female,4th,,,8,,Exams,Yes,High
+2025-01-01 00:00,19,4.73,Female,3rd,,,7,,Social Media,Yes,Medium
+2025-01-01 00:00,23,7.61,Female,2nd,,,4,,Social Media,No,Medium
+2025-01-01 00:00,23,5.8,Male,1st,,,9,,Assignments,Yes,Low
+2025-01-01 00:00,19,4.21,Male,3rd,,,7,,Family,Yes,Low
+2025-01-01 00:00,18,9.27,Male,1st,,,2,,Social Media,Yes,Medium
+2025-01-01 00:00,23,5.08,Female,4th,,,9,,Family,No,High
+2025-01-01 00:00,22,5.06,Female,2nd,,,7,,Family,Yes,Low
+2025-01-01 00:00,19,4.76,Male,4th,,,8,,Exams,Yes,High
+2025-01-01 00:00,21,5.31,Female,2nd,,,9,,Exams,No,High
+2025-01-01 00:00,18,8.88,Male,4th,,,2,,Family,No,Medium
+2025-01-01 00:00,22,6.83,Female,1st,,,4,,Family,No,Low
+2025-01-01 00:00,24,9.7,Female,1st,,,2,,Exams,No,Low
+2025-01-01 00:00,19,8.46,Female,1st,,,2,,Exams,No,Medium
+2025-01-01 00:00,24,9.22,Male,2nd,,,2,,Social Media,Yes,Medium
+2025-01-01 00:00,20,7.79,Male,2nd,,,4,,Social Media,No,Medium
+2025-01-01 00:00,23,9.44,Female,3rd,,,1,,Assignments,No,High
+2025-01-01 00:00,22,6.75,Male,2nd,,,6,,Exams,No,Low
+2025-01-01 00:00,21,5.33,Male,1st,,,8,,Family,No,High
+2025-01-01 00:00,22,8.69,Male,4th,,,2,,Exams,No,Low
+2025-01-01 00:00,18,5.18,Male,1st,,,9,,Assignments,Yes,Low
+2025-01-01 00:00,19,4.21,Male,2nd,,,9,,Family,Yes,Low
+2025-01-01 00:00,20,5.07,Female,3rd,,,10,,Social Media,Yes,Low
+2025-01-01 00:00,19,8.76,Male,1st,,,3,,Exams,No,High
+2025-01-01 00:00,18,9.47,Male,4th,,,3,,Assignments,No,High
+2025-01-01 00:00,21,9.74,Male,2nd,,,1,,Family,No,Low
+2025-01-01 00:00,20,5.44,Male,2nd,,,7,,Social Media,No,Medium
+2025-01-01 00:00,19,4.63,Female,1st,,,9,,Family,No,Low
+2025-01-01 00:00,18,9.43,Male,2nd,,,2,,Exams,No,High
+2025-01-01 00:00,18,4.57,Male,1st,,,7,,Exams,No,Low
+2025-01-01 00:00,20,8.79,Male,3rd,,,1,,Family,Yes,Medium
+2025-01-01 00:00,20,5.32,Male,1st,,,7,,Exams,Yes,Medium
+2025-01-01 00:00,21,6.86,Male,3rd,,,5,,Assignments,No,High
+2025-01-01 00:00,19,4.34,Female,3rd,,,9,,Family,Yes,Low
+2025-01-01 00:00,24,8.8,Male,3rd,,,3,,Assignments,Yes,Medium
+2025-01-01 00:00,19,4.41,Male,1st,,,9,,Exams,Yes,High
+2025-01-01 00:00,22,5.13,Male,2nd,,,8,,Assignments,No,Medium
+2025-01-01 00:00,20,8.59,Female,2nd,,,3,,Exams,No,Medium
+2025-01-01 00:00,20,6.39,Female,2nd,,,5,,Assignments,Yes,High
+2025-01-01 00:00,22,4.7,Female,2nd,,,10,,Family,No,Low
+2025-01-01 00:00,18,6.92,Female,3rd,,,4,,Assignments,No,Medium
+2025-01-01 00:00,18,9.23,Female,4th,,,2,,Social Media,No,Medium
+2025-01-01 00:00,23,7.09,Female,3rd,,,4,,Assignments,Yes,High
+2025-01-01 00:00,22,9.55,Male,4th,,,1,,Assignments,Yes,Low
+2025-01-01 00:00,22,8.54,Female,4th,,,1,,Family,No,Low
+2025-01-01 00:00,24,5.51,Female,1st,,,10,,Assignments,Yes,Low
+2025-01-01 00:00,23,9.22,Male,3rd,,,3,,Family,Yes,High
+2025-01-01 00:00,22,5.09,Male,4th,,,9,,Assignments,No,High
+2025-01-01 00:00,24,9.35,Male,3rd,,,1,,Assignments,Yes,Medium
+2025-01-01 00:00,20,6.93,Male,2nd,,,5,,Exams,Yes,High
+2025-01-01 00:00,21,5.69,Male,4th,,,7,,Assignments,No,Medium
+2025-01-01 00:00,20,9.43,Male,1st,,,2,,Assignments,Yes,Medium
+2025-01-01 00:00,20,4.92,Female,1st,,,7,,Exams,Yes,Low
+2025-01-01 00:00,22,7.69,Male,1st,,,5,,Assignments,Yes,Medium
+2025-01-01 00:00,22,6.39,Male,4th,,,5,,Social Media,No,Medium
+2025-01-01 00:00,18,8.93,Male,3rd,,,1,,Family,No,High
+2025-01-01 00:00,19,8.65,Male,1st,,,3,,Family,No,Low
+2025-01-01 00:00,19,8.72,Female,4th,,,1,,Family,Yes,Medium
+2025-01-01 00:00,23,4.62,Female,3rd,,,8,,Exams,Yes,Medium
+2025-01-01 00:00,23,7.65,Female,1st,,,5,,Exams,No,Medium
+2025-01-01 00:00,18,4.23,Male,3rd,,,8,,Social Media,No,Medium
+2025-01-01 00:00,23,4.75,Female,4th,,,10,,Family,Yes,Medium
+2025-01-01 00:00,21,9.19,Male,2nd,,,2,,Exams,No,Medium
+2025-01-01 00:00,24,6.68,Female,4th,,,6,,Exams,No,High
+2025-01-01 00:00,18,6.69,Male,3rd,,,5,,Exams,Yes,Low
+2025-01-01 00:00,21,8.81,Male,2nd,,,1,,Exams,Yes,Low
+2025-01-01 00:00,24,6.91,Male,2nd,,,5,,Exams,No,Medium
+2025-01-01 00:00,24,9.74,Female,4th,,,3,,Family,Yes,Low
+2025-01-01 00:00,21,5.07,Female,2nd,,,7,,Assignments,Yes,Low
+2025-01-01 00:00,20,9.63,Male,1st,,,3,,Exams,Yes,Low
+2025-01-01 00:00,23,6.75,Male,4th,,,6,,Exams,Yes,High
+2025-01-01 00:00,23,4.36,Female,1st,,,8,,Family,Yes,Medium
+2025-01-01 00:00,23,5.44,Male,4th,,,10,,Social Media,No,Low
+2025-01-01 00:00,23,5.1,Male,2nd,,,8,,Family,No,Low
+2025-01-01 00:00,22,7.41,Female,1st,,,4,,Exams,No,High
+2025-01-01 00:00,23,5.68,Male,4th,,,10,,Family,No,High
+2025-01-01 00:00,19,8.28,Female,4th,,,1,,Assignments,Yes,Medium
+2025-01-01 00:00,19,8.57,Female,2nd,,,3,,Social Media,Yes,Low
+2025-01-01 00:00,24,4.74,Male,1st,,,10,,Exams,Yes,Medium
+2025-01-01 00:00,21,6.68,Male,1st,,,5,,Exams,Yes,Low
+2025-01-01 00:00,20,5.59,Female,4th,,,9,,Assignments,Yes,Low
+2025-01-01 00:00,18,5.21,Female,4th,,,10,,Social Media,No,High
+2025-01-01 00:00,18,9.74,Male,4th,,,1,,Family,Yes,Low
+2025-01-01 00:00,22,6.86,Female,2nd,,,6,,Exams,No,Low
+2025-01-01 00:00,23,7.15,Male,2nd,,,6,,Assignments,Yes,Low
+2025-01-01 00:00,22,5.74,Male,4th,,,7,,Social Media,No,High
+2025-01-01 00:00,18,5.28,Female,2nd,,,9,,Assignments,No,Low
+2025-01-01 00:00,23,5.06,Male,1st,,,8,,Social Media,Yes,High
+2025-01-01 00:00,22,8.87,Male,1st,,,1,,Assignments,Yes,High
+2025-01-01 00:00,18,7.8,Female,3rd,,,5,,Family,Yes,Medium
+2025-01-01 00:00,24,6.84,Female,1st,,,5,,Family,No,High
+2025-01-01 00:00,23,5.62,Male,4th,,,10,,Social Media,Yes,Medium
+2025-01-01 00:00,18,9.69,Female,4th,,,1,,Exams,Yes,Low
+2025-01-01 00:00,24,6.74,Female,4th,,,4,,Exams,No,Medium
+2025-01-01 00:00,24,5.34,Male,4th,,,8,,Exams,Yes,High
+2025-01-01 00:00,24,8.71,Female,4th,,,3,,Social Media,Yes,Medium
+2025-01-01 00:00,21,5.56,Male,1st,,,7,,Social Media,Yes,High
+2025-01-01 00:00,20,8.64,Male,2nd,,,3,,Exams,No,Medium
+2025-01-01 00:00,19,7.46,Female,4th,,,5,,Family,Yes,Low
+2025-01-01 00:00,24,6.66,Male,1st,,,5,,Assignments,Yes,Medium
+2025-01-01 00:00,24,8.38,Male,3rd,,,1,,Exams,No,Medium
+2025-01-01 00:00,21,5.76,Female,4th,,,8,,Assignments,No,Low
+2025-01-01 00:00,18,7.3,Female,4th,,,5,,Social Media,Yes,High
+2025-01-01 00:00,22,8.62,Female,2nd,,,2,,Social Media,Yes,High
+2025-01-01 00:00,24,4.4,Female,2nd,,,7,,Assignments,No,High
+2025-01-01 00:00,19,7.41,Male,4th,,,5,,Social Media,No,Medium
+2025-01-01 00:00,23,8.46,Female,1st,,,3,,Family,Yes,High
+2025-01-01 00:00,20,7.23,Female,3rd,,,4,,Social Media,Yes,High
+2025-01-01 00:00,21,7.72,Female,4th,,,5,,Family,No,Low
+2025-01-01 00:00,18,7.3,Female,4th,,,6,,Assignments,No,Medium
+2025-01-01 00:00,24,5.67,Male,2nd,,,9,,Exams,No,High
+2025-01-01 00:00,18,8.78,Female,3rd,,,2,,Social Media,No,Medium
+2025-01-01 00:00,20,4.87,Male,1st,,,8,,Exams,Yes,High
+2025-01-01 00:00,24,4.47,Male,4th,,,7,,Social Media,No,Low
+2025-01-01 00:00,20,7.01,Female,4th,,,4,,Family,Yes,Medium
+2025-01-01 00:00,18,5.79,Female,4th,,,7,,Exams,Yes,High
+2025-01-01 00:00,21,7.36,Male,3rd,,,5,,Assignments,No,High
+2025-01-01 00:00,18,8.68,Female,3rd,,,3,,Assignments,No,Low
+2025-01-01 00:00,20,8.6,Male,4th,,,1,,Social Media,No,Medium
+2025-01-01 00:00,19,6.24,Female,4th,,,5,,Social Media,Yes,High
+2025-01-01 00:00,22,7.28,Female,2nd,,,4,,Exams,Yes,High
+2025-01-01 00:00,22,5.6,Female,2nd,,,8,,Family,Yes,High
+2025-01-01 00:00,20,8.65,Male,4th,,,2,,Social Media,Yes,Low
+2025-01-01 00:00,22,6.55,Male,2nd,,,4,,Social Media,No,Low
+2025-01-01 00:00,23,6.97,Female,4th,,,6,,Social Media,Yes,Low
+2025-01-01 00:00,18,4.23,Female,3rd,,,10,,Assignments,Yes,High
+2025-01-01 00:00,22,4.31,Female,4th,,,10,,Assignments,Yes,Low
+2025-01-01 00:00,24,9.05,Female,4th,,,2,,Exams,Yes,Medium
+2025-01-01 00:00,23,5.2,Male,3rd,,,8,,Exams,Yes,High
+2025-01-01 00:00,24,5.73,Male,1st,,,7,,Exams,Yes,Medium
+2025-01-01 00:00,24,8.24,Female,4th,,,1,,Exams,Yes,Low
+2025-01-01 00:00,19,4.64,Male,4th,,,8,,Assignments,Yes,Low
+2025-01-01 00:00,23,8.9,Female,2nd,,,1,,Exams,Yes,Medium
+2025-01-01 00:00,23,4.72,Female,3rd,,,9,,Exams,No,Medium
+2025-01-01 00:00,19,9.52,Male,1st,,,1,,Social Media,Yes,High
+2025-01-01 00:00,20,4.7,Male,4th,,,8,,Exams,No,High
+2025-01-01 00:00,23,7.25,Female,2nd,,,5,,Exams,No,Low
+2025-01-01 00:00,24,6.21,Male,4th,,,4,,Social Media,No,Medium
+2025-01-01 00:00,23,7.64,Male,3rd,,,5,,Assignments,No,Low
+2025-01-01 00:00,21,4.5,Male,2nd,,,10,,Family,Yes,Medium
+2025-01-01 00:00,22,7.15,Female,3rd,,,4,,Assignments,No,High
+2025-01-01 00:00,22,5.6,Female,2nd,,,8,,Social Media,Yes,High
+2025-01-01 00:00,18,8.67,Female,1st,,,2,,Exams,No,High
+2025-01-01 00:00,21,7.01,Male,3rd,,,4,,Assignments,No,Low
+2025-01-01 00:00,24,7.06,Female,2nd,,,6,,Exams,No,Low
+2025-01-01 00:00,24,8.89,Male,2nd,,,3,,Family,Yes,High
+2025-01-01 00:00,20,9.8,Male,4th,,,3,,Assignments,Yes,High
+2025-01-01 00:00,20,4.73,Male,1st,,,9,,Family,No,Low
+2025-01-01 00:00,23,8.33,Male,3rd,,,2,,Family,Yes,Medium
+2025-01-01 00:00,21,7.79,Female,1st,,,6,,Assignments,Yes,High
+2025-01-01 00:00,18,8.82,Female,1st,,,1,,Assignments,Yes,High
+2025-01-01 00:00,21,4.86,Male,2nd,,,8,,Social Media,No,Medium
+2025-01-01 00:00,21,8.44,Female,2nd,,,1,,Family,No,Low
+2025-01-01 00:00,22,5.23,Male,4th,,,9,,Exams,No,Low
+2025-01-01 00:00,20,8.48,Male,3rd,,,1,,Assignments,No,Low
+,23,9.92,Female,4th,,,2,,,,High
+,23,9.02,Female,4th,,,2,,,,Low
+,19,8.98,Female,3rd,,,2,,,,Low
+,22,4.31,Female,4th,,,10,,,,High
+,18,9.36,Female,2nd,,,1,,,,Low
+,24,7.0,Male,4th,,,5,,,,Medium
+,24,4.25,Male,2nd,,,10,,,,Medium
+,22,8.72,Male,3rd,,,3,,,,High
+,20,8.83,Female,4th,,,3,,,,Medium
+,24,5.42,Female,1st,,,7,,,,Medium
+,22,5.9,Male,4th,,,10,,,,High
+,23,9.55,Male,1st,,,3,,,,Low
+,18,5.71,Female,2nd,,,9,,,,Medium
+,21,5.49,Male,3rd,,,8,,,,Low
+,24,4.82,Female,3rd,,,10,,,,Low
+,18,5.53,Male,1st,,,7,,,,Low
+,21,7.06,Male,2nd,,,5,,,,Low
+,18,7.51,Female,2nd,,,5,,,,Medium
+,21,7.78,Female,2nd,,,5,,,,Medium
+,23,6.88,Male,3rd,,,6,,,,Low
+,23,7.5,Female,3rd,,,5,,,,Low
+,20,4.53,Female,4th,,,9,,,,Medium
+,18,8.87,Male,4th,,,2,,,,High
+,24,7.57,Female,4th,,,6,,,,Medium
+,18,4.78,Female,4th,,,8,,,,High
+,18,4.95,Male,4th,,,7,,,,Low
+,24,4.78,Male,3rd,,,7,,,,Low
+,20,9.52,Male,2nd,,,1,,,,High
+,20,4.29,Female,1st,,,8,,,,Low
+,24,7.4,Male,3rd,,,6,,,,High
+,18,9.77,Male,3rd,,,2,,,,Low
+,20,5.66,Male,4th,,,7,,,,High
+,20,6.29,Female,3rd,,,4,,,,Low
+,24,5.81,Male,2nd,,,10,,,,High
+,22,8.94,Male,2nd,,,2,,,,Medium
+,22,7.26,Male,2nd,,,5,,,,High
+,18,4.65,Female,2nd,,,7,,,,Medium
+,24,7.24,Male,4th,,,5,,,,Low
+,22,8.86,Female,1st,,,3,,,,Medium
+,21,9.23,Male,3rd,,,3,,,,Low
+,23,4.51,Female,4th,,,10,,,,Low
+,19,7.8,Male,2nd,,,4,,,,Medium
+,24,5.26,Male,1st,,,8,,,,High
+,22,7.09,Male,1st,,,4,,,,Low
+,19,7.12,Female,1st,,,5,,,,Medium
+,18,6.84,Male,1st,,,4,,,,Low
+,23,9.13,Male,2nd,,,2,,,,High
+,23,9.82,Male,1st,,,2,,,,Low
+,22,4.32,Male,4th,,,8,,,,Medium
+,23,9.99,Female,1st,,,1,,,,Low
+,20,8.9,Male,2nd,,,1,,,,High
+,19,4.28,Male,3rd,,,9,,,,Medium
+,23,4.83,Male,4th,,,9,,,,Medium
+,22,9.3,Male,2nd,,,3,,,,Low
+,22,6.21,Female,4th,,,6,,,,High
+,22,8.79,Female,4th,,,2,,,,Medium
+,24,4.83,Female,3rd,,,9,,,,Low
+,19,3.94,Male,2nd,,,9,,,,Low
+,23,5.29,Male,1st,,,8,,,,Medium
+,22,7.54,Male,1st,,,6,,,,Medium
+,18,9.2,Female,2nd,,,2,,,,High
+,18,5.54,Male,1st,,,7,,,,Medium
+,23,4.75,Female,4th,,,10,,,,Medium
+,22,9.64,Female,3rd,,,3,,,,High
+,21,9.99,Female,1st,,,3,,,,Medium
+,20,5.42,Female,1st,,,9,,,,High
+,21,3.96,Male,3rd,,,8,,,,Medium
+,19,6.77,Male,2nd,,,6,,,,High
+,21,4.02,Female,3rd,,,7,,,,High
+,22,4.6,Male,2nd,,,7,,,,High
+,19,9.57,Male,2nd,,,2,,,,High
+,22,9.31,Male,2nd,,,3,,,,High
+,18,7.78,Male,3rd,,,6,,,,High
+,21,8.79,Female,3rd,,,3,,,,High
+,22,7.45,Male,3rd,,,6,,,,Low
+,24,5.42,Male,4th,,,8,,,,Medium
+,20,5.57,Female,4th,,,9,,,,High
+,22,7.01,Female,1st,,,4,,,,Low
+,20,4.97,Female,2nd,,,10,,,,Medium
+,20,7.12,Male,1st,,,4,,,,Medium
+,21,4.6,Female,1st,,,9,,,,Low
+,23,5.16,Male,1st,,,9,,,,Low
+,21,4.16,Male,4th,,,10,,,,High
+,18,5.75,Female,2nd,,,7,,,,High
+,24,9.89,Male,3rd,,,3,,,,Low
+,18,5.02,Male,4th,,,10,,,,Medium
+,23,7.23,Female,3rd,,,5,,,,High
+,18,5.22,Male,4th,,,10,,,,Low
+,21,3.93,Male,4th,,,9,,,,Low
+,19,4.87,Female,1st,,,10,,,,Medium
+,21,9.53,Male,1st,,,2,,,,High
+,21,7.22,Female,3rd,,,5,,,,Low
+,24,6.85,Male,4th,,,5,,,,High
+,18,8.76,Female,2nd,,,2,,,,Low
+,23,4.45,Male,2nd,,,8,,,,Low
+,20,9.98,Female,3rd,,,3,,,,Low
+,19,9.12,Female,2nd,,,2,,,,Medium
+,23,5.54,Male,1st,,,8,,,,Medium
+,24,6.24,Female,2nd,,,4,,,,High
+,20,4.18,Male,2nd,,,9,,,,High
+,22,7.69,Male,4th,,,4,,,,Low
+,20,6.96,Female,4th,,,4,,,,Medium
+,19,4.14,Female,2nd,,,7,,,,High
+,19,7.35,Female,4th,,,6,,,,High
+,22,4.36,Female,1st,,,7,,,,Low
+,23,7.47,Female,1st,,,5,,,,Medium
+,21,7.49,Female,3rd,,,4,,,,High
+,24,5.83,Female,1st,,,9,,,,Low
+,24,4.82,Male,3rd,,,9,,,,Low
+,22,5.22,Female,4th,,,8,,,,High
+,24,6.67,Female,4th,,,6,,,,Low
+,18,7.37,Male,3rd,,,6,,,,Low
+,22,6.5,Female,2nd,,,6,,,,Medium
+,21,4.91,Female,4th,,,7,,,,Low
+,18,5.63,Male,3rd,,,10,,,,Low
+,18,3.94,Female,2nd,,,8,,,,Medium
+,20,6.73,Male,3rd,,,6,,,,Medium
+,19,6.87,Female,1st,,,4,,,,High
+,24,5.24,Female,3rd,,,7,,,,Medium
+,23,4.04,Male,3rd,,,7,,,,Medium
+,18,6.29,Female,3rd,,,6,,,,High
+,24,8.9,Male,3rd,,,3,,,,High
+,24,6.31,Male,4th,,,4,,,,High
+,18,6.76,Female,4th,,,6,,,,Low
+,19,9.48,Female,2nd,,,1,,,,High
+,23,5.12,Male,3rd,,,9,,,,High
+,20,7.71,Female,4th,,,4,,,,Low
+,23,4.48,Male,3rd,,,10,,,,Medium
+,19,8.89,Male,1st,,,3,,,,Low
+,19,9.08,Male,4th,,,1,,,,High
+,22,5.65,Female,3rd,,,7,,,,Low
+,23,3.92,Male,4th,,,9,,,,Low
+,19,8.99,Male,2nd,,,2,,,,Medium
+,19,7.31,Female,1st,,,6,,,,High
+,20,8.85,Male,3rd,,,3,,,,High
+,19,3.96,Male,4th,,,10,,,,High
+,23,9.44,Female,1st,,,3,,,,High
+,24,6.99,Female,1st,,,4,,,,Medium
+,20,9.75,Female,4th,,,1,,,,Low
+,18,9.47,Male,2nd,,,2,,,,Low
+,24,5.88,Male,4th,,,8,,,,Low
+,22,4.31,Female,2nd,,,8,,,,High
+,24,9.62,Male,1st,,,2,,,,High
+,24,5.49,Male,4th,,,7,,,,High
+,23,9.15,Female,4th,,,2,,,,Medium
+,20,9.88,Male,1st,,,2,,,,Low
+,20,9.62,Female,3rd,,,3,,,,High
+,18,4.92,Male,4th,,,10,,,,Low
+,23,5.84,Male,3rd,,,10,,,,High
+,18,5.86,Male,4th,,,10,,,,Medium
+,23,6.42,Male,1st,,,4,,,,High
+,20,6.74,Female,1st,,,6,,,,Low
+,20,6.7,Male,2nd,,,6,,,,High
+,20,4.95,Male,4th,,,7,,,,Medium
+,23,4.61,Male,3rd,,,9,,,,Low
+,22,6.7,Male,1st,,,4,,,,High
+,21,9.16,Male,3rd,,,2,,,,High
+,24,5.81,Male,4th,,,9,,,,Medium
+,23,3.97,Male,3rd,,,7,,,,Medium
+,21,6.67,Female,4th,,,6,,,,Low
+,22,6.69,Male,4th,,,5,,,,Medium
+,23,9.79,Female,4th,,,3,,,,Low
+,19,5.29,Female,1st,,,7,,,,Low
+,21,7.09,Male,2nd,,,4,,,,Medium
+,20,9.77,Female,4th,,,2,,,,Low
+,20,4.41,Male,4th,,,8,,,,Low
+,23,4.08,Female,3rd,,,8,,,,Medium
+,23,6.67,Male,2nd,,,6,,,,High
+,20,4.44,Female,4th,,,7,,,,Medium
+,19,4.37,Male,4th,,,10,,,,High
+,21,4.31,Female,3rd,,,9,,,,Medium
+,24,5.81,Female,4th,,,10,,,,Medium
+,24,4.74,Female,1st,,,9,,,,Medium
+,20,5.57,Female,1st,,,9,,,,High
+,22,4.19,Female,1st,,,10,,,,Low
+,24,4.52,Female,1st,,,9,,,,Low
+,21,4.93,Male,3rd,,,10,,,,High
+,21,7.85,Female,3rd,,,6,,,,Low
+,21,8.81,Male,3rd,,,3,,,,Low
+,22,8.74,Male,3rd,,,2,,,,Medium
+,21,9.61,Male,4th,,,3,,,,High
+,24,5.74,Male,2nd,,,10,,,,High
+,22,3.96,Male,4th,,,10,,,,High
+,20,9.09,Female,2nd,,,2,,,,Low
+,23,4.28,Male,1st,,,8,,,,High
+,19,4.25,Female,1st,,,7,,,,Medium
+,21,5.43,Male,3rd,,,7,,,,Low
+,24,8.85,Male,1st,,,3,,,,High
+,24,6.32,Female,4th,,,5,,,,High
+,23,4.24,Male,3rd,,,10,,,,Medium
+,19,7.01,Male,1st,,,5,,,,Medium
+,24,8.85,Female,1st,,,3,,,,Medium
+,18,5.76,Female,4th,,,9,,,,Medium
+,21,7.73,Male,1st,,,5,,,,Low
+,22,5.78,Female,3rd,,,7,,,,Medium
+,20,5.42,Female,1st,,,9,,,,High
+,24,9.63,Female,2nd,,,2,,,,Low
+,22,4.39,Male,2nd,,,7,,,,Medium
+,18,8.77,Female,3rd,,,1,,,,Medium
+,22,5.02,Male,2nd,,,10,,,,High
+,23,4.27,Male,2nd,,,7,,,,High
+,22,4.39,Male,2nd,,,8,,,,Low
+,18,5.14,Female,1st,,,9,,,,Medium
+,18,5.19,Female,2nd,,,7,,,,High
+,18,8.82,Male,4th,,,2,,,,Low
+,24,5.18,Male,1st,,,7,,,,Low
+,19,5.24,Male,1st,,,10,,,,Low
+,19,4.19,Female,4th,,,7,,,,Medium
+,21,9.07,Female,3rd,,,1,,,,High
+,24,9.38,Female,1st,,,2,,,,High
+,20,9.23,Female,4th,,,1,,,,Low
+,24,7.06,Male,4th,,,6,,,,High
+,21,4.3,Male,4th,,,8,,,,High
+,20,5.89,Male,1st,,,7,,,,Medium
+,19,9.68,Male,2nd,,,2,,,,High
+,24,9.38,Female,1st,,,2,,,,High
+,19,9.72,Male,1st,,,2,,,,Low
+,21,9.63,Male,1st,,,3,,,,Low
+,23,6.52,Female,1st,,,5,,,,Medium
+,22,7.61,Female,4th,,,4,,,,High
+,21,9.14,Male,2nd,,,3,,,,Medium
+,18,6.7,Male,4th,,,5,,,,Medium
+,20,8.81,Female,2nd,,,3,,,,Medium
+,19,9.56,Male,1st,,,2,,,,Medium
+,22,7.43,Female,3rd,,,5,,,,High
+,24,4.15,Male,2nd,,,10,,,,Medium
+,18,9.69,Female,1st,,,2,,,,High
+,22,5.83,Female,4th,,,7,,,,High
+,20,5.31,Female,4th,,,10,,,,High
+,21,5.27,Female,2nd,,,8,,,,Medium
+,20,7.59,Female,1st,,,5,,,,High
+,23,9.06,Male,4th,,,1,,,,High
+,22,5.66,Female,2nd,,,8,,,,High
+,23,9.78,Female,4th,,,3,,,,High
+,21,8.9,Male,1st,,,3,,,,High
+,22,5.61,Female,1st,,,7,,,,Low
+,23,5.36,Female,1st,,,10,,,,Low
+,20,6.47,Male,3rd,,,6,,,,Medium
+,21,5.46,Female,3rd,,,10,,,,Medium
+,19,5.88,Male,3rd,,,7,,,,Low
+,20,7.64,Female,2nd,,,5,,,,Medium
+,20,4.58,Female,3rd,,,8,,,,Medium
+,20,5.75,Male,2nd,,,9,,,,Medium
+,24,7.49,Female,3rd,,,4,,,,Low
+,21,5.77,Female,4th,,,8,,,,Medium
+,21,5.11,Female,1st,,,9,,,,Low
+,24,9.85,Male,4th,,,1,,,,High
+,22,9.08,Female,2nd,,,1,,,,Low
+,21,7.19,Female,4th,,,5,,,,Medium
+,20,4.53,Male,1st,,,7,,,,Medium
+,23,5.7,Male,4th,,,7,,,,Medium
+,24,7.35,Male,4th,,,4,,,,Medium
+,20,7.37,Female,3rd,,,6,,,,Medium
+,18,4.74,Male,4th,,,10,,,,Medium
+,24,4.6,Male,1st,,,7,,,,Low
+,19,6.6,Male,3rd,,,5,,,,High
+,23,9.0,Male,2nd,,,1,,,,Low
+,22,7.65,Female,3rd,,,5,,,,Medium
+,21,6.8,Female,3rd,,,6,,,,Low
+,19,4.39,Female,2nd,,,7,,,,Medium
+,23,4.55,Male,1st,,,7,,,,Low
+,23,7.08,Female,1st,,,6,,,,High
+,19,9.71,Female,2nd,,,2,,,,Medium
+,19,9.47,Male,1st,,,3,,,,High
+,21,4.67,Female,3rd,,,8,,,,High
+,24,7.0,Male,3rd,,,6,,,,High
+,21,4.85,Female,1st,,,7,,,,High
+,22,9.43,Male,4th,,,1,,,,Low
+,21,5.59,Male,3rd,,,7,,,,Low
+,20,4.99,Female,1st,,,7,,,,High
+,24,5.26,Male,4th,,,7,,,,High
+,18,7.33,Male,2nd,,,4,,,,Medium
+,23,5.05,Female,1st,,,7,,,,High
+,24,9.85,Female,1st,,,2,,,,High
+,18,7.01,Male,2nd,,,4,,,,Low
+,19,5.56,Female,2nd,,,8,,,,Medium
+,23,8.88,Male,4th,,,3,,,,Medium
+,22,9.01,Female,1st,,,1,,,,Low
+,19,5.28,Female,2nd,,,10,,,,High
+,21,6.26,Female,3rd,,,4,,,,Medium
+,18,9.13,Female,4th,,,3,,,,High
+,22,9.4,Male,2nd,,,1,,,,High
+,20,6.77,Male,1st,,,5,,,,Medium
+,18,5.49,Female,3rd,,,10,,,,Medium
+,18,8.76,Male,3rd,,,2,,,,Low
+,22,9.11,Female,4th,,,3,,,,High
+,23,4.58,Female,2nd,,,8,,,,Low
+,23,6.33,Female,4th,,,6,,,,Low
+,22,5.52,Female,4th,,,9,,,,Medium
+,23,9.82,Male,2nd,,,3,,,,High
+,20,9.05,Male,3rd,,,1,,,,Low
+,23,5.59,Female,3rd,,,8,,,,Medium
+,24,9.94,Female,2nd,,,3,,,,Medium
+,20,8.74,Male,1st,,,3,,,,Low
+,20,3.93,Male,3rd,,,7,,,,Low
+,23,4.3,Female,2nd,,,9,,,,High
+,23,5.6,Male,2nd,,,7,,,,Medium
+,18,6.55,Female,1st,,,6,,,,High
+,22,4.4,Male,3rd,,,10,,,,Low
+,23,4.15,Male,3rd,,,7,,,,High
+,21,7.3,Male,1st,,,5,,,,Low
+,18,9.42,Female,4th,,,1,,,,Medium
+,21,7.09,Male,1st,,,4,,,,Low
+,18,5.08,Female,4th,,,7,,,,Low
+,22,9.82,Female,1st,,,2,,,,High
+,20,4.38,Male,2nd,,,9,,,,Medium
+,18,5.35,Male,2nd,,,7,,,,Low
+,19,8.76,Male,4th,,,1,,,,Medium
+,20,5.16,Male,2nd,,,8,,,,Medium
+,21,7.12,Female,1st,,,6,,,,High
+,19,4.0,Female,1st,,,10,,,,High
+,21,9.28,Female,4th,,,1,,,,Medium
+,23,7.51,Male,2nd,,,6,,,,Low
+,24,9.87,Male,2nd,,,2,,,,Medium
+,18,7.18,Female,3rd,,,5,,,,High
+,18,6.72,Male,4th,,,4,,,,Medium
+,18,5.75,Female,3rd,,,7,,,,Low
+,21,5.37,Male,4th,,,9,,,,High
+,22,8.88,Male,3rd,,,1,,,,High
+,23,7.59,Female,3rd,,,5,,,,Low
+,18,5.86,Male,3rd,,,7,,,,Medium
+,18,9.25,Female,1st,,,1,,,,Medium
+,20,4.0,Female,4th,,,7,,,,High
+,24,4.55,Male,4th,,,10,,,,Medium
+,20,9.71,Male,2nd,,,1,,,,Medium
+,23,6.27,Female,3rd,,,6,,,,High
+,19,6.36,Female,1st,,,6,,,,Low
+,19,4.62,Male,2nd,,,9,,,,High
+,21,4.53,Male,4th,,,8,,,,High
+,22,5.3,Male,3rd,,,7,,,,High
+,23,4.31,Female,4th,,,10,,,,Medium
+,24,9.23,Female,4th,,,2,,,,Medium
+,23,6.23,Female,2nd,,,4,,,,Low
+,21,5.19,Male,3rd,,,10,,,,Medium
+,21,4.04,Male,4th,,,8,,,,Medium
+,21,9.81,Female,4th,,,3,,,,Low
+,23,7.79,Male,2nd,,,5,,,,Medium
+,22,5.63,Female,4th,,,7,,,,Medium
+,18,6.38,Female,4th,,,5,,,,High
+,24,6.87,Female,3rd,,,4,,,,Medium
+,23,9.46,Female,4th,,,2,,,,Low
+,22,9.73,Male,1st,,,3,,,,High
+,20,7.65,Male,1st,,,5,,,,High
+,22,4.35,Male,3rd,,,7,,,,Low
+,24,9.66,Female,4th,,,2,,,,Low
+,24,9.77,Male,3rd,,,3,,,,Low
+,24,5.77,Male,4th,,,8,,,,Low
+,19,6.61,Female,3rd,,,6,,,,Low
+,20,4.86,Male,4th,,,8,,,,Medium
+,20,5.75,Female,4th,,,10,,,,Medium
+,18,9.34,Male,1st,,,2,,,,Medium
+,24,4.86,Female,4th,,,7,,,,High
+,24,9.37,Male,2nd,,,3,,,,Medium
+,18,8.92,Male,4th,,,3,,,,Low
+,23,5.5,Male,1st,,,9,,,,Medium
+,20,9.08,Male,1st,,,1,,,,High
+,21,9.88,Male,3rd,,,1,,,,Medium
+,20,5.71,Male,1st,,,9,,,,Low
+,19,6.83,Male,2nd,,,4,,,,Low
+,23,4.59,Male,2nd,,,8,,,,Low
+,22,7.57,Male,4th,,,6,,,,Low
+,21,5.33,Female,3rd,,,8,,,,Medium
+,22,4.44,Female,2nd,,,10,,,,High
+,20,4.31,Male,1st,,,8,,,,Low
+,23,6.29,Male,2nd,,,6,,,,Medium
+,19,4.91,Female,3rd,,,10,,,,Low
+,21,9.12,Male,3rd,,,2,,,,Medium
+,19,7.28,Male,4th,,,5,,,,Low
+,18,7.1,Female,4th,,,6,,,,Low
+,18,9.1,Female,1st,,,3,,,,Low
+,21,6.96,Male,2nd,,,4,,,,Low
+,23,9.82,Male,1st,,,1,,,,Low
+,22,9.99,Female,1st,,,3,,,,High
+,22,5.69,Female,2nd,,,10,,,,Low
+,22,7.28,Male,3rd,,,6,,,,Medium
+,20,5.48,Female,2nd,,,7,,,,High
+,22,7.65,Female,4th,,,6,,,,Medium
+,20,8.78,Male,3rd,,,3,,,,Medium
+,21,3.93,Female,3rd,,,10,,,,High
+,21,4.41,Male,4th,,,7,,,,Medium
+,22,4.05,Male,3rd,,,7,,,,High
+,20,9.57,Male,1st,,,2,,,,High
+,21,6.99,Male,3rd,,,6,,,,Low
+,18,9.2,Male,2nd,,,3,,,,High
+,19,5.06,Female,1st,,,10,,,,High
+,19,6.6,Male,1st,,,6,,,,High
+,18,6.95,Male,1st,,,6,,,,Medium
+,18,9.38,Male,3rd,,,1,,,,High
+,19,4.5,Female,3rd,,,7,,,,High
+,18,8.87,Male,2nd,,,3,,,,High
+,23,7.75,Male,3rd,,,4,,,,High
+,23,6.68,Male,3rd,,,4,,,,Low
+,23,7.64,Male,1st,,,5,,,,Low
+,21,9.53,Male,3rd,,,1,,,,Medium
+,21,3.99,Female,1st,,,9,,,,Medium
+,22,4.96,Male,2nd,,,9,,,,Medium
+,24,7.01,Female,3rd,,,4,,,,Low
+,24,4.94,Male,1st,,,10,,,,Low
+,21,9.82,Female,1st,,,1,,,,Medium
+,18,7.08,Male,4th,,,6,,,,High
+,23,5.72,Female,1st,,,8,,,,Low
+,21,5.81,Male,1st,,,9,,,,High
+,21,9.94,Female,4th,,,2,,,,High
+,19,4.36,Male,2nd,,,7,,,,Low
+,23,6.66,Female,1st,,,4,,,,Medium
+,18,9.91,Male,1st,,,3,,,,Medium
+,19,5.78,Male,4th,,,9,,,,Medium
+,18,4.52,Female,3rd,,,9,,,,Low
+,21,9.94,Female,2nd,,,3,,,,Medium
+,22,5.61,Male,4th,,,7,,,,Medium
+,24,6.42,Female,4th,,,5,,,,Medium
+,20,7.83,Male,4th,,,6,,,,Low
+,24,9.22,Female,1st,,,2,,,,Medium
+,20,9.48,Male,4th,,,3,,,,High
+,21,5.56,Male,3rd,,,9,,,,Medium
+,18,9.34,Female,1st,,,3,,,,High
+,22,6.24,Female,4th,,,6,,,,Low
+,19,4.58,Female,3rd,,,9,,,,High
+,18,9.46,Female,4th,,,1,,,,Low
+,19,5.89,Female,3rd,,,9,,,,Medium
+,23,5.59,Male,1st,,,10,,,,Medium
+,19,5.21,Female,4th,,,7,,,,Medium
+,24,9.6,Female,3rd,,,3,,,,Low
+,19,5.42,Male,1st,,,10,,,,Medium
+,19,8.76,Female,3rd,,,2,,,,Low
+,20,5.11,Female,4th,,,8,,,,Low
+,18,4.75,Female,4th,,,10,,,,Low
+,21,4.16,Male,1st,,,7,,,,Low
+,22,7.02,Male,2nd,,,4,,,,Medium
+,18,7.84,Female,3rd,,,4,,,,Medium
+,18,4.29,Female,3rd,,,8,,,,Medium
+,18,6.95,Male,3rd,,,6,,,,Low
+,23,7.12,Male,1st,,,6,,,,Low
+,21,9.3,Female,3rd,,,2,,,,High
+,24,5.79,Male,4th,,,8,,,,Medium
+,18,9.93,Female,4th,,,1,,,,Low
+,21,4.46,Female,4th,,,9,,,,Medium
+,21,8.79,Female,4th,,,1,,,,Low
+,24,9.16,Female,4th,,,2,,,,Low
+,18,7.75,Female,2nd,,,6,,,,Medium
+,18,5.78,Male,2nd,,,9,,,,Medium
+,19,9.69,Female,4th,,,3,,,,Low
+,21,9.38,Male,1st,,,1,,,,High
+,19,4.84,Female,2nd,,,10,,,,Medium
+,21,7.08,Male,1st,,,6,,,,Medium
+,20,6.71,Female,2nd,,,6,,,,Low
+,22,3.91,Female,2nd,,,8,,,,High
+,22,9.55,Female,2nd,,,3,,,,Medium
+,18,8.98,Male,1st,,,3,,,,High
+,20,8.75,Male,1st,,,1,,,,High
+,18,5.22,Male,3rd,,,7,,,,Medium
+,23,9.25,Male,3rd,,,3,,,,Medium
+,20,6.9,Male,4th,,,5,,,,Medium
+,24,7.57,Female,3rd,,,5,,,,Medium
+,19,5.72,Female,4th,,,7,,,,Low
+,18,9.98,Female,4th,,,2,,,,Low
+,18,4.89,Male,3rd,,,10,,,,Low
+,19,3.98,Male,2nd,,,7,,,,High
+,19,5.17,Female,4th,,,7,,,,High
+,19,7.81,Male,3rd,,,4,,,,Low
+,23,4.6,Female,3rd,,,9,,,,High
+,22,7.08,Male,4th,,,5,,,,Medium
+,23,5.52,Male,4th,,,8,,,,Medium
+,24,9.33,Female,2nd,,,2,,,,High
+,20,9.5,Female,3rd,,,2,,,,Medium
+,21,9.56,Male,1st,,,2,,,,Medium
+,20,9.02,Female,1st,,,1,,,,Medium
+,24,5.11,Male,3rd,,,9,,,,High
+,24,7.67,Male,2nd,,,6,,,,High
+,21,7.05,Male,2nd,,,6,,,,High
+,20,9.5,Female,2nd,,,2,,,,Low
+,19,6.88,Male,2nd,,,4,,,,Low
+,24,4.8,Female,1st,,,7,,,,Medium
+,21,9.87,Female,3rd,,,2,,,,Medium
+,22,8.82,Female,2nd,,,2,,,,Low
+,21,4.03,Male,2nd,,,7,,,,Low
+,19,6.59,Female,1st,,,5,,,,Low
+,21,7.88,Male,2nd,,,5,,,,Low
+,18,7.31,Female,1st,,,6,,,,High
+,19,4.66,Female,3rd,,,7,,,,High
+,22,8.74,Male,3rd,,,2,,,,Low
+,19,4.36,Female,1st,,,8,,,,High
+,18,5.71,Male,3rd,,,8,,,,High
+,24,4.85,Female,1st,,,7,,,,High
+,21,9.3,Male,3rd,,,3,,,,Medium
+,22,7.17,Female,1st,,,5,,,,High
+,21,8.97,Female,1st,,,1,,,,Medium
+,24,8.94,Female,2nd,,,3,,,,Medium
+,19,4.31,Female,3rd,,,9,,,,Low
+,24,7.41,Male,2nd,,,4,,,,Low
+,22,4.81,Female,3rd,,,9,,,,Medium
+,19,7.7,Male,3rd,,,4,,,,High
+,20,6.54,Male,2nd,,,5,,,,High
+,23,4.65,Male,4th,,,7,,,,High
+,23,9.72,Male,2nd,,,2,,,,Medium
+,18,5.54,Female,3rd,,,8,,,,Low
+,18,9.5,Female,3rd,,,3,,,,High
+,22,3.99,Male,4th,,,7,,,,Low
+,20,6.89,Male,2nd,,,4,,,,High
+,19,7.86,Female,3rd,,,4,,,,Medium

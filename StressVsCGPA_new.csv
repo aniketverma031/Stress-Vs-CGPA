@@ -1,0 +1,453 @@
+Timestamp,AGE,CGPA,GENDER,Year of Study,Sleeping Hours,Physical Activity,Stress level,Stress Impact on Academics,Stress Hotspot,Coping with SocialMedia,Social Media Impact on Academics
+25/08/2025 11:11:07,22,7.7,Male,2nd Year,7.0,Yes,9,,Assignment/project deadlines,Yes,
+25/08/2025 11:39:56,22,8.0,Male,1st Year,7.0,Yes,5,,Assignment/project deadlines,Yes,
+25/08/2025 11:51:09,22,9.0,Male,3rd Year,7.0,Yes,5,,Mid-semester exams,Yes,
+25/08/2025 12:45:01,21,7.95,Female,4th Year,4.0,No,6,Maybe,Assignment/project deadlines,No,
+25/08/2025 12:46:14,22,5.2,Male,3rd Year,4.0,No,5,No,End-semester exams,Yes,
+25/08/2025 13:07:57,23,5.4,Male,2nd Year,5.0,Yes,10,Yes,Start of semester,Yes,
+25/08/2025 13:08:05,23,9.99,Male,2nd Year,4.0,No,1,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:08:44,18,5.79,Female,4th Year,9.0,Yes,4,Yes,Start of semester,Yes,
+25/08/2025 13:09:09,19,8.38,Female,1st Year,8.0,No,5,Maybe,Start of semester,No,
+25/08/2025 13:09:42,25,8.54,Male,4th Year,8.0,Yes,6,No,Start of semester,Yes,
+25/08/2025 13:10:14,22,5.56,Female,2nd Year,5.0,Yes,4,Yes,End-semester exams,Yes,
+25/08/2025 13:10:30,22,5.17,Male,3rd Year,5.0,Yes,6,Yes,Start of semester,Yes,
+25/08/2025 13:11:28,20,7.58,Male,1st Year,9.0,No,4,Yes,Mid-semester exams,No,
+25/08/2025 13:12:17,23,9.32,Male,4th Year,5.0,Yes,1,No,Mid-semester exams,Yes,
+25/08/2025 13:12:56,18,7.58,Male,1st Year,6.0,No,9,Yes,Start of semester,Yes,
+25/08/2025 13:13:36,25,9.84,Male,4th Year,6.0,No,5,Yes,Mid-semester exams,Yes,
+25/08/2025 13:14:41,19,5.21,Female,3rd Year,9.0,Yes,8,Yes,Mid-semester exams,Yes,
+25/08/2025 13:15:29,20,5.25,Female,4th Year,6.0,No,4,No,Assignment/project deadlines,No,
+25/08/2025 13:16:11,21,7.64,Female,1st Year,9.0,Yes,9,Yes,Start of semester,Yes,
+25/08/2025 13:16:58,24,8.02,Female,1st Year,9.0,No,8,No,Start of semester,No,
+25/08/2025 13:17:28,19,9.11,Female,4th Year,7.0,Yes,1,Yes,Mid-semester exams,Yes,
+25/08/2025 13:18:03,25,8.89,Female,3rd Year,9.0,Yes,4,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:18:44,23,9.69,Female,3rd Year,7.0,Yes,7,No,End-semester exams,No,
+25/08/2025 13:19:33,23,5.98,Female,3rd Year,7.0,Yes,7,No,End-semester exams,No,
+25/08/2025 13:20:07,19,5.88,Male,2nd Year,7.0,Yes,9,Maybe,Start of semester,No,
+25/08/2025 13:20:48,19,5.88,Male,2nd Year,7.0,Yes,9,Maybe,Start of semester,No,
+25/08/2025 13:21:27,21,9.64,Male,4th Year,6.0,No,5,Maybe,End-semester exams,Yes,
+25/08/2025 13:22:07,23,7.71,Female,4th Year,6.0,No,8,Maybe,End-semester exams,No,
+25/08/2025 13:22:45,19,8.21,Female,2nd Year,5.0,Yes,8,Maybe,Assignment/project deadlines,Yes,
+25/08/2025 13:23:34,20,8.85,Female,3rd Year,6.0,No,3,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:24:20,20,8.85,Female,3rd Year,6.0,No,3,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:25:07,20,8.15,Female,1st Year,8.0,No,9,Maybe,Start of semester,No,
+25/08/2025 13:25:43,25,6.22,Female,1st Year,5.0,Yes,8,No,Assignment/project deadlines,No,
+25/08/2025 13:26:30,25,9.42,Female,3rd Year,5.0,No,9,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:27:00,22,9.88,Female,2nd Year,4.0,Yes,1,Yes,Assignment/project deadlines,No,
+25/08/2025 13:27:41,23,9.51,Male,2nd Year,9.0,Yes,7,Yes,Mid-semester exams,No,
+25/08/2025 13:28:28,20,8.51,Male,2nd Year,9.0,Yes,6,Yes,End-semester exams,No,
+25/08/2025 13:29:03,18,6.77,Female,3rd Year,9.0,Yes,4,Yes,End-semester exams,No,
+25/08/2025 13:29:44,25,5.52,Male,3rd Year,5.0,Yes,9,Yes,Mid-semester exams,No,
+25/08/2025 13:30:33,23,7.2,Male,4th Year,8.0,Yes,8,Maybe,Start of semester,No,
+25/08/2025 13:31:17,25,6.14,Male,1st Year,4.0,Yes,9,Maybe,Assignment/project deadlines,Yes,
+25/08/2025 13:31:58,23,6.26,Female,2nd Year,9.0,No,2,Maybe,Start of semester,No,
+25/08/2025 13:32:42,21,5.19,Male,3rd Year,9.0,No,5,Yes,End-semester exams,Yes,
+25/08/2025 13:33:27,20,5.81,Female,4th Year,8.0,No,9,Maybe,End-semester exams,No,
+25/08/2025 13:34:12,18,7.72,Male,4th Year,5.0,No,7,Yes,Start of semester,Yes,
+25/08/2025 13:34:48,25,5.47,Female,2nd Year,4.0,Yes,10,No,Start of semester,No,
+25/08/2025 13:35:19,23,6.35,Male,3rd Year,6.0,Yes,2,Maybe,Mid-semester exams,Yes,
+25/08/2025 13:35:54,21,5.65,Female,2nd Year,5.0,No,9,Yes,Start of semester,No,
+25/08/2025 13:36:31,19,5.92,Female,1st Year,8.0,No,4,Yes,Mid-semester exams,No,
+25/08/2025 13:37:41,19,9.5,Male,2nd Year,6.0,Yes,8,Yes,End-semester exams,Yes,
+25/08/2025 13:38:27,22,8.74,Male,3rd Year,5.0,Yes,3,Yes,Assignment/project deadlines,No,
+25/08/2025 13:39:04,21,8.15,Female,2nd Year,8.0,No,7,Yes,End-semester exams,Yes,
+25/08/2025 13:39:34,18,8.66,Female,1st Year,8.0,No,3,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:41:40,24,7.28,Female,3rd Year,7.0,No,6,Yes,Assignment/project deadlines,No,
+25/08/2025 13:42:29,24,7.07,Female,3rd Year,5.0,No,8,No,Assignment/project deadlines,No,
+25/08/2025 13:43:12,23,7.2,Male,3rd Year,8.0,Yes,2,Maybe,End-semester exams,Yes,
+25/08/2025 13:43:59,23,5.12,Female,4th Year,9.0,Yes,6,Maybe,Start of semester,Yes,
+25/08/2025 13:44:46,19,5.02,Female,1st Year,4.0,Yes,8,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:45:47,24,5.15,Male,4th Year,4.0,No,3,Yes,Mid-semester exams,No,
+25/08/2025 13:46:32,19,6.14,Male,2nd Year,9.0,No,4,No,Start of semester,Yes,
+25/08/2025 13:47:11,21,9.6,Female,4th Year,7.0,Yes,6,Maybe,End-semester exams,No,
+25/08/2025 13:47:50,18,6.1,Female,1st Year,8.0,No,8,Yes,Start of semester,Yes,
+25/08/2025 13:48:30,25,6.53,Female,4th Year,7.0,Yes,5,Maybe,Mid-semester exams,No,
+25/08/2025 13:49:17,18,6.23,Male,1st Year,9.0,No,3,Maybe,Assignment/project deadlines,No,
+25/08/2025 13:50:26,22,9.26,Female,4th Year,8.0,Yes,1,Maybe,Mid-semester exams,No,
+25/08/2025 13:51:17,18,8.68,Male,2nd Year,4.0,No,8,Maybe,End-semester exams,Yes,
+25/08/2025 13:52:18,20,7.81,Male,4th Year,9.0,Yes,8,Yes,Assignment/project deadlines,No,
+25/08/2025 13:53:08,19,7.61,Male,1st Year,4.0,Yes,1,No,End-semester exams,Yes,
+25/08/2025 13:53:48,22,8.75,Male,2nd Year,5.0,No,8,No,Mid-semester exams,Yes,
+25/08/2025 13:54:19,22,7.4,Male,2nd Year,7.0,Yes,5,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:54:26,22,9.08,Female,2nd Year,4.0,Yes,6,No,End-semester exams,No,
+25/08/2025 13:55:15,19,5.61,Female,1st Year,6.0,No,8,Yes,Assignment/project deadlines,Yes,
+25/08/2025 13:55:56,18,5.8,Male,2nd Year,7.0,No,4,No,Assignment/project deadlines,No,
+25/08/2025 13:56:48,23,8.38,Male,3rd Year,9.0,No,4,No,Mid-semester exams,No,
+25/08/2025 13:57:25,19,6.17,Female,2nd Year,5.0,Yes,7,Yes,Start of semester,No,
+25/08/2025 13:58:05,22,9.25,Female,3rd Year,8.0,No,7,Maybe,Mid-semester exams,Yes,
+25/08/2025 13:58:37,23,8.66,Male,2nd Year,7.0,No,6,Maybe,End-semester exams,Yes,
+25/08/2025 13:59:22,18,6.74,Male,2nd Year,5.0,No,8,Yes,Mid-semester exams,Yes,
+25/08/2025 13:59:57,24,7.54,Male,4th Year,9.0,No,8,Maybe,Mid-semester exams,No,
+25/08/2025 14:00:33,21,9.1,Female,2nd Year,9.0,Yes,2,Maybe,Assignment/project deadlines,Yes,
+25/08/2025 14:01:15,20,5.96,Male,3rd Year,6.0,Yes,8,Yes,Start of semester,Yes,
+25/08/2025 14:01:53,23,6.21,Female,3rd Year,7.0,Yes,4,No,Mid-semester exams,No,
+25/08/2025 14:02:30,22,5.21,Male,2nd Year,7.0,Yes,2,Yes,Mid-semester exams,Yes,
+25/08/2025 14:03:05,25,5.81,Male,4th Year,7.0,No,6,Yes,Start of semester,Yes,
+25/08/2025 14:03:39,21,6.99,Female,2nd Year,9.0,No,10,Yes,Start of semester,Yes,
+25/08/2025 14:05:10,19,8.17,Female,2nd Year,8.0,Yes,1,Maybe,Assignment/project deadlines,No,
+25/08/2025 14:06:39,20,7.91,Female,1st Year,9.0,No,6,Yes,Assignment/project deadlines,Yes,
+25/08/2025 15:11:57,20,8.2,Female,1st Year,7.0,No,8,Maybe,Mid-semester exams,Yes,
+25/08/2025 15:12:32,22,9.1,Female,3rd Year,7.5,No,10,Yes,Assignment/project deadlines,Yes,
+25/08/2025 15:12:59,21,6.6,Male,3rd Year,9.0,Yes,5,No,End-semester exams,Yes,
+25/08/2025 15:13:33,23,6.9,Male,4th Year,8.0,Yes,1,No,End-semester exams,Yes,
+25/08/2025 15:14:07,25,7.4,Male,3rd Year,5.0,Yes,4,Maybe,Mid-semester exams,Yes,
+25/08/2025 15:14:34,22,5.5,Male,2nd Year,9.0,No,5,No,Assignment/project deadlines,No,
+25/08/2025 15:15:02,20,9.2,Female,2nd Year,5.0,No,9,Yes,Mid-semester exams,No,
+25/08/2025 15:15:29,23,67.0,Female,2nd Year,8.0,No,4,Maybe,Mid-semester exams,Yes,
+25/08/2025 15:16:00,19,8.0,Female,1st Year,7.0,No,7,Maybe,End-semester exams,Yes,
+25/08/2025 15:16:29,21,8.0,Female,2nd Year,6.0,Yes,6,Maybe,Mid-semester exams,Yes,
+25/08/2025 15:16:47,23,9.0,Female,2nd Year,8.0,Yes,10,Yes,Start of semester,Yes,
+25/08/2025 15:17:08,24,6.0,Male,2nd Year,8.0,No,1,No,Mid-semester exams,No,
+25/08/2025 15:17:34,22,7.0,Female,2nd Year,6.0,Yes,10,No,Mid-semester exams,Yes,
+25/08/2025 15:17:58,22,4.0,Male,2nd Year,10.0,Yes,1,No,End-semester exams,Yes,
+25/08/2025 15:18:33,24,8.5,Female,2nd Year,6.5,Yes,7,Yes,Mid-semester exams,Yes,
+25/08/2025 15:19:00,23,7.5,Female,2nd Year,7.5,Yes,10,Yes,Mid-semester exams,Yes,
+25/08/2025 15:19:27,21,7.0,Male,2nd Year,7.0,Yes,7,No,Assignment/project deadlines,Yes,
+25/08/2025 15:21:30,21,8.2,Female,3rd Year,5.0,No,6,Yes,End-semester exams,No,
+25/08/2025 15:22:00,23,8.6,Male,2nd Year,6.5,Yes,6,Maybe,End-semester exams,Yes,
+25/08/2025 15:22:40,24,7.5,Male,2nd Year,7.5,Yes,10,No,End-semester exams,Yes,
+25/08/2025 15:25:10,26,6.8,Male,4th Year,6.0,No,1,No,Assignment/project deadlines,Yes,
+25/08/2025 15:25:41,22,8.6,Male,3rd Year,7.5,No,3,No,Mid-semester exams,Yes,
+25/08/2025 15:26:15,21,7.8,Male,2nd Year,5.0,No,3,Maybe,Mid-semester exams,No,
+25/08/2025 15:26:46,19,8.0,Male,1st Year,6.0,Yes,6,Maybe,Start of semester,Yes,
+25/08/2025 15:27:38,23,8.2,Male,2nd Year,7.0,No,7,Maybe,End-semester exams,No,
+25/08/2025 15:28:04,24,7.3,Male,2nd Year,6.0,Yes,6,Yes,Assignment/project deadlines,Yes,
+25/08/2025 15:28:27,22,4.0,Male,2nd Year,11.0,No,1,No,End-semester exams,No,
+25/08/2025 15:28:52,25,6.9,Male,4th Year,6.0,Yes,8,Maybe,End-semester exams,Yes,
+25/08/2025 15:29:23,25,7.8,Male,3rd Year,7.0,Yes,5,Maybe,End-semester exams,Yes,
+25/08/2025 15:30:25,18,8.0,Female,1st Year,6.0,No,4,Maybe,Mid-semester exams,Yes,
+25/08/2025 15:30:59,21,7.0,Female,2nd Year,8.0,Yes,6,Maybe,Mid-semester exams,No,
+25/08/2025 15:31:24,19,9.0,Male,1st Year,5.0,No,10,Yes,End-semester exams,No,
+25/08/2025 15:31:54,23,7.5,Female,2nd Year,7.0,No,7,No,End-semester exams,Yes,
+25/08/2025 15:32:21,22,6.5,Male,3rd Year,6.0,Yes,6,Maybe,End-semester exams,No,
+25/08/2025 16:15:42,24,5.08,Male,2nd Year,7.0,No,4,Yes,Start of semester,No,
+25/08/2025 16:17:53,21,6.48,Female,4th Year,6.0,Yes,3,Yes,Mid-semester exams,No,
+25/08/2025 16:19:00,25,6.15,Male,1st Year,6.0,No,8,No,Mid-semester exams,No,
+25/08/2025 16:20:02,23,8.85,Male,1st Year,8.0,No,7,Yes,End-semester exams,No,
+25/08/2025 16:20:58,22,7.35,Female,4th Year,9.0,Yes,6,Maybe,Start of semester,Yes,
+25/08/2025 16:21:49,20,5.48,Female,3rd Year,9.0,Yes,7,Maybe,End-semester exams,No,
+25/08/2025 16:23:04,22,8.32,Male,2nd Year,6.0,Yes,8,No,Assignment/project deadlines,Yes,
+25/08/2025 16:24:13,25,8.31,Female,3rd Year,8.0,No,1,Maybe,Start of semester,Yes,
+25/08/2025 16:25:23,19,6.03,Male,3rd Year,9.0,Yes,4,No,End-semester exams,No,
+25/08/2025 16:26:01,21,9.02,Male,1st Year,9.0,Yes,9,Yes,Assignment/project deadlines,Yes,
+25/08/2025 16:26:35,22,8.93,Female,3rd Year,6.0,Yes,8,Yes,Mid-semester exams,No,
+25/08/2025 16:27:04,22,7.7,Male,4th Year,6.0,Yes,10,Maybe,Mid-semester exams,Yes,
+25/08/2025 16:27:29,25,6.06,Male,3rd Year,4.0,No,5,Maybe,Start of semester,Yes,
+25/08/2025 16:27:49,25,8.46,Male,4th Year,7.0,Yes,8,No,Mid-semester exams,Yes,
+25/08/2025 16:28:20,18,7.55,Female,2nd Year,5.0,Yes,5,Maybe,Assignment/project deadlines,Yes,
+25/08/2025 16:28:46,21,9.79,Male,3rd Year,5.0,No,9,Yes,Assignment/project deadlines,Yes,
+25/08/2025 16:29:19,19,7.17,Female,2nd Year,5.0,No,5,Maybe,Mid-semester exams,Yes,
+25/08/2025 16:29:49,22,8.26,Male,1st Year,5.0,Yes,5,Yes,Assignment/project deadlines,Yes,
+25/08/2025 16:30:15,22,7.99,Female,3rd Year,8.0,Yes,5,Maybe,Mid-semester exams,Yes,
+25/08/2025 16:30:43,22,6.34,Male,2nd Year,4.0,Yes,9,Yes,Mid-semester exams,Yes,
+25/08/2025 16:31:04,25,8.41,Female,4th Year,4.0,No,7,Maybe,Start of semester,Yes,
+25/08/2025 16:31:28,25,6.52,Male,3rd Year,4.0,No,10,No,End-semester exams,Yes,
+25/08/2025 16:31:59,22,5.5,Female,1st Year,5.0,No,5,Maybe,Mid-semester exams,Yes,
+25/08/2025 16:32:24,22,6.35,Male,2nd Year,9.0,Yes,6,No,End-semester exams,Yes,
+25/08/2025 16:32:51,20,5.42,Male,1st Year,5.0,No,5,No,Mid-semester exams,Yes,
+25/08/2025 16:33:20,20,5.56,Male,3rd Year,4.0,No,9,Yes,Start of semester,Yes,
+25/08/2025 16:33:44,18,6.09,Male,3rd Year,9.0,No,7,Yes,Assignment/project deadlines,Yes,
+25/08/2025 16:34:08,23,5.93,Female,4th Year,6.0,Yes,9,Yes,Assignment/project deadlines,Yes,
+25/08/2025 16:34:30,25,9.28,Female,4th Year,6.0,No,7,Yes,Assignment/project deadlines,Yes,
+25/08/2025 16:34:52,22,8.0,Female,3rd Year,5.0,Yes,5,Yes,Mid-semester exams,Yes,
+25/08/2025 16:35:20,18,6.24,Female,4th Year,4.0,No,10,No,Mid-semester exams,Yes,
+2025-01-01 00:00,20,4.28,Male,2nd,,,9,,Exams,No,High
+2025-01-01 00:00,22,6.86,Female,1st,,,5,,Exams,No,High
+2025-01-01 00:00,18,9.7,Female,1st,,,3,,Assignments,No,Low
+2025-01-01 00:00,23,8.93,Female,2nd,,,2,,Social Media,No,Low
+2025-01-01 00:00,21,7.41,Female,2nd,,,4,,Family,No,High
+2025-01-01 00:00,18,6.25,Female,1st,,,5,,Exams,No,Medium
+2025-01-01 00:00,24,4.28,Female,4th,,,9,,Family,No,High
+2025-01-01 00:00,18,6.47,Female,2nd,,,6,,Social Media,Yes,Medium
+2025-01-01 00:00,23,8.4,Male,2nd,,,1,,Exams,Yes,Medium
+2025-01-01 00:00,22,8.21,Female,3rd,,,3,,Assignments,No,Low
+2025-01-01 00:00,24,5.13,Male,3rd,,,7,,Family,Yes,Low
+2025-01-01 00:00,18,4.28,Male,3rd,,,7,,Social Media,Yes,Medium
+2025-01-01 00:00,24,9.09,Male,2nd,,,1,,Social Media,Yes,High
+2025-01-01 00:00,20,5.6,Female,3rd,,,9,,Exams,No,Low
+2025-01-01 00:00,20,9.36,Male,1st,,,2,,Family,No,High
+2025-01-01 00:00,21,4.3,Male,3rd,,,7,,Family,No,Medium
+2025-01-01 00:00,24,6.71,Female,4th,,,4,,Assignments,Yes,High
+2025-01-01 00:00,22,9.24,Male,2nd,,,3,,Family,No,Low
+2025-01-01 00:00,18,7.6,Female,1st,,,6,,Social Media,Yes,Medium
+2025-01-01 00:00,21,8.52,Male,3rd,,,1,,Assignments,Yes,Low
+2025-01-01 00:00,24,5.18,Male,2nd,,,8,,Social Media,Yes,High
+2025-01-01 00:00,24,8.93,Female,1st,,,3,,Exams,Yes,Medium
+2025-01-01 00:00,24,4.4,Female,3rd,,,8,,Exams,Yes,Medium
+2025-01-01 00:00,20,7.6,Male,4th,,,6,,Social Media,Yes,Medium
+2025-01-01 00:00,24,4.46,Male,2nd,,,10,,Social Media,Yes,Medium
+2025-01-01 00:00,19,8.24,Male,3rd,,,3,,Social Media,No,Low
+2025-01-01 00:00,19,8.51,Male,2nd,,,3,,Exams,No,Low
+2025-01-01 00:00,22,7.45,Female,4th,,,4,,Assignments,Yes,High
+2025-01-01 00:00,19,9.75,Female,3rd,,,1,,Assignments,No,Medium
+2025-01-01 00:00,18,4.86,Female,2nd,,,10,,Family,No,Low
+2025-01-01 00:00,24,4.43,Male,3rd,,,10,,Exams,Yes,Low
+2025-01-01 00:00,19,5.44,Male,1st,,,8,,Exams,Yes,Low
+2025-01-01 00:00,22,9.79,Female,2nd,,,3,,Assignments,Yes,High
+2025-01-01 00:00,18,8.87,Female,3rd,,,2,,Family,No,High
+2025-01-01 00:00,21,7.4,Male,1st,,,6,,Family,No,Low
+2025-01-01 00:00,20,5.69,Male,1st,,,9,,Assignments,Yes,High
+2025-01-01 00:00,24,7.65,Female,1st,,,5,,Exams,Yes,Medium
+2025-01-01 00:00,21,6.91,Male,3rd,,,5,,Social Media,Yes,Medium
+2025-01-01 00:00,20,4.4,Male,4th,,,8,,Exams,No,Low
+2025-01-01 00:00,18,6.37,Female,1st,,,5,,Social Media,No,Low
+2025-01-01 00:00,19,4.5,Female,4th,,,9,,Family,Yes,Medium
+2025-01-01 00:00,20,7.59,Male,4th,,,5,,Assignments,No,Medium
+2025-01-01 00:00,23,4.98,Male,2nd,,,7,,Family,Yes,High
+2025-01-01 00:00,21,7.69,Female,1st,,,6,,Family,No,Medium
+2025-01-01 00:00,24,5.05,Female,2nd,,,8,,Family,No,Low
+2025-01-01 00:00,20,4.68,Female,2nd,,,7,,Exams,Yes,Low
+2025-01-01 00:00,19,8.22,Male,3rd,,,2,,Assignments,Yes,Low
+2025-01-01 00:00,24,4.88,Female,3rd,,,7,,Assignments,Yes,Low
+2025-01-01 00:00,24,6.69,Female,4th,,,5,,Exams,No,Medium
+2025-01-01 00:00,19,9.75,Female,4th,,,2,,Family,Yes,Medium
+2025-01-01 00:00,21,5.37,Female,4th,,,8,,Family,No,Low
+2025-01-01 00:00,19,8.81,Male,2nd,,,2,,Social Media,Yes,Medium
+2025-01-01 00:00,22,4.38,Female,3rd,,,9,,Assignments,Yes,Medium
+2025-01-01 00:00,18,6.57,Male,1st,,,4,,Social Media,Yes,Medium
+2025-01-01 00:00,19,9.22,Female,1st,,,3,,Exams,Yes,Medium
+2025-01-01 00:00,19,9.18,Male,3rd,,,2,,Exams,No,Low
+2025-01-01 00:00,23,8.54,Female,1st,,,3,,Assignments,Yes,Low
+2025-01-01 00:00,19,9.0,Male,2nd,,,1,,Exams,No,Low
+2025-01-01 00:00,23,4.4,Female,3rd,,,7,,Family,No,High
+2025-01-01 00:00,23,4.33,Male,4th,,,8,,Assignments,Yes,High
+2025-01-01 00:00,21,5.49,Female,4th,,,7,,Family,No,Low
+2025-01-01 00:00,18,8.73,Male,4th,,,1,,Social Media,No,Medium
+2025-01-01 00:00,19,9.19,Female,3rd,,,3,,Family,No,High
+2025-01-01 00:00,24,6.88,Female,4th,,,6,,Assignments,Yes,Medium
+2025-01-01 00:00,24,5.19,Female,1st,,,10,,Family,Yes,Low
+2025-01-01 00:00,24,9.16,Female,4th,,,2,,Family,No,Medium
+2025-01-01 00:00,20,6.31,Female,4th,,,6,,Social Media,No,Low
+2025-01-01 00:00,20,6.62,Male,1st,,,6,,Social Media,No,Medium
+2025-01-01 00:00,22,5.68,Female,3rd,,,9,,Exams,No,Medium
+2025-01-01 00:00,23,8.66,Female,1st,,,1,,Exams,Yes,Low
+2025-01-01 00:00,23,9.07,Male,4th,,,2,,Family,No,High
+2025-01-01 00:00,19,8.76,Male,1st,,,3,,Family,Yes,Medium
+2025-01-01 00:00,18,7.77,Female,1st,,,4,,Social Media,No,Medium
+2025-01-01 00:00,20,5.78,Female,2nd,,,8,,Exams,No,Medium
+2025-01-01 00:00,22,8.36,Female,4th,,,2,,Social Media,Yes,Medium
+2025-01-01 00:00,23,5.51,Female,1st,,,10,,Exams,Yes,Medium
+2025-01-01 00:00,19,9.27,Male,3rd,,,3,,Exams,Yes,Medium
+2025-01-01 00:00,24,8.23,Female,1st,,,2,,Social Media,No,Medium
+2025-01-01 00:00,24,7.27,Female,3rd,,,5,,Exams,No,Medium
+2025-01-01 00:00,21,7.2,Male,4th,,,5,,Exams,Yes,Low
+2025-01-01 00:00,18,5.59,Male,1st,,,10,,Family,Yes,Low
+2025-01-01 00:00,22,8.22,Male,1st,,,2,,Assignments,Yes,Low
+2025-01-01 00:00,20,7.54,Male,3rd,,,4,,Assignments,No,Medium
+2025-01-01 00:00,20,6.68,Male,1st,,,4,,Assignments,Yes,Low
+2025-01-01 00:00,18,8.27,Male,4th,,,3,,Family,Yes,Medium
+2025-01-01 00:00,21,6.81,Male,3rd,,,4,,Exams,No,Medium
+2025-01-01 00:00,23,6.86,Male,1st,,,6,,Exams,Yes,Medium
+2025-01-01 00:00,19,6.65,Male,3rd,,,4,,Social Media,Yes,High
+2025-01-01 00:00,22,5.48,Female,4th,,,10,,Family,Yes,High
+2025-01-01 00:00,22,6.64,Male,2nd,,,5,,Exams,No,Medium
+2025-01-01 00:00,23,7.18,Male,4th,,,5,,Assignments,Yes,High
+2025-01-01 00:00,24,8.69,Male,4th,,,3,,Family,Yes,Medium
+2025-01-01 00:00,19,9.05,Male,2nd,,,3,,Assignments,Yes,Low
+2025-01-01 00:00,21,7.02,Female,2nd,,,6,,Social Media,Yes,High
+2025-01-01 00:00,22,5.09,Female,2nd,,,8,,Exams,Yes,Medium
+2025-01-01 00:00,19,8.6,Male,2nd,,,3,,Family,No,High
+2025-01-01 00:00,18,7.56,Male,1st,,,6,,Exams,No,Medium
+2025-01-01 00:00,19,5.07,Male,4th,,,10,,Assignments,Yes,Medium
+2025-01-01 00:00,24,4.96,Male,4th,,,10,,Exams,Yes,Low
+2025-01-01 00:00,21,4.6,Female,2nd,,,10,,Social Media,Yes,High
+2025-01-01 00:00,22,5.79,Female,2nd,,,9,,Social Media,Yes,Low
+2025-01-01 00:00,20,8.91,Male,4th,,,1,,Assignments,No,Medium
+2025-01-01 00:00,23,5.71,Female,3rd,,,9,,Social Media,No,High
+2025-01-01 00:00,21,6.21,Male,3rd,,,4,,Social Media,Yes,High
+2025-01-01 00:00,22,4.33,Male,4th,,,7,,Assignments,Yes,Medium
+2025-01-01 00:00,23,5.37,Female,4th,,,9,,Family,Yes,High
+2025-01-01 00:00,19,9.26,Male,3rd,,,1,,Exams,Yes,High
+2025-01-01 00:00,22,4.34,Female,2nd,,,8,,Family,No,Medium
+2025-01-01 00:00,21,7.8,Female,1st,,,4,,Social Media,Yes,Low
+2025-01-01 00:00,24,9.66,Male,1st,,,3,,Exams,No,Medium
+2025-01-01 00:00,24,5.23,Female,1st,,,8,,Family,No,Low
+2025-01-01 00:00,23,8.49,Female,1st,,,1,,Family,No,High
+2025-01-01 00:00,20,4.58,Female,2nd,,,10,,Family,No,High
+2025-01-01 00:00,22,7.23,Male,4th,,,5,,Exams,No,Medium
+2025-01-01 00:00,19,9.12,Male,2nd,,,3,,Assignments,No,Low
+2025-01-01 00:00,24,9.44,Female,3rd,,,3,,Exams,No,Medium
+2025-01-01 00:00,24,5.13,Male,4th,,,9,,Assignments,No,High
+2025-01-01 00:00,18,4.76,Female,3rd,,,9,,Social Media,No,Medium
+2025-01-01 00:00,23,9.52,Female,3rd,,,3,,Exams,Yes,Medium
+2025-01-01 00:00,21,4.85,Female,2nd,,,9,,Social Media,Yes,High
+2025-01-01 00:00,22,7.42,Male,2nd,,,5,,Assignments,No,High
+2025-01-01 00:00,21,8.38,Female,3rd,,,3,,Family,Yes,Medium
+2025-01-01 00:00,21,6.68,Male,4th,,,5,,Social Media,Yes,Medium
+2025-01-01 00:00,18,6.97,Female,2nd,,,6,,Exams,Yes,High
+2025-01-01 00:00,24,9.28,Female,3rd,,,3,,Social Media,No,Low
+2025-01-01 00:00,24,6.5,Male,4th,,,6,,Assignments,No,High
+2025-01-01 00:00,20,9.53,Female,4th,,,1,,Social Media,Yes,Low
+2025-01-01 00:00,20,5.2,Male,3rd,,,8,,Social Media,No,High
+2025-01-01 00:00,19,6.78,Male,2nd,,,5,,Assignments,Yes,Low
+2025-01-01 00:00,22,4.89,Male,4th,,,9,,Family,No,Low
+2025-01-01 00:00,20,8.32,Male,4th,,,1,,Family,Yes,High
+2025-01-01 00:00,19,5.22,Male,1st,,,9,,Social Media,Yes,Medium
+2025-01-01 00:00,19,7.62,Male,1st,,,4,,Exams,No,Medium
+2025-01-01 00:00,18,6.8,Male,4th,,,5,,Exams,No,Medium
+2025-01-01 00:00,19,8.21,Female,4th,,,1,,Social Media,Yes,Medium
+2025-01-01 00:00,22,9.75,Female,1st,,,1,,Family,Yes,Low
+2025-01-01 00:00,22,5.77,Male,4th,,,7,,Assignments,No,Medium
+2025-01-01 00:00,20,9.69,Female,2nd,,,2,,Exams,Yes,High
+2025-01-01 00:00,18,5.69,Male,1st,,,10,,Exams,No,Medium
+2025-01-01 00:00,23,4.91,Female,2nd,,,8,,Assignments,Yes,High
+2025-01-01 00:00,19,7.26,Male,1st,,,4,,Family,No,High
+2025-01-01 00:00,24,5.39,Male,4th,,,10,,Exams,No,Low
+2025-01-01 00:00,22,9.02,Female,2nd,,,3,,Family,No,Low
+2025-01-01 00:00,18,4.41,Female,1st,,,7,,Exams,No,Medium
+2025-01-01 00:00,18,4.58,Male,4th,,,7,,Family,Yes,Low
+2025-01-01 00:00,19,4.62,Female,4th,,,8,,Exams,Yes,High
+2025-01-01 00:00,19,4.73,Female,3rd,,,7,,Social Media,Yes,Medium
+2025-01-01 00:00,23,7.61,Female,2nd,,,4,,Social Media,No,Medium
+2025-01-01 00:00,23,5.8,Male,1st,,,9,,Assignments,Yes,Low
+2025-01-01 00:00,19,4.21,Male,3rd,,,7,,Family,Yes,Low
+2025-01-01 00:00,18,9.27,Male,1st,,,2,,Social Media,Yes,Medium
+2025-01-01 00:00,23,5.08,Female,4th,,,9,,Family,No,High
+2025-01-01 00:00,22,5.06,Female,2nd,,,7,,Family,Yes,Low
+2025-01-01 00:00,19,4.76,Male,4th,,,8,,Exams,Yes,High
+2025-01-01 00:00,21,5.31,Female,2nd,,,9,,Exams,No,High
+2025-01-01 00:00,18,8.88,Male,4th,,,2,,Family,No,Medium
+2025-01-01 00:00,22,6.83,Female,1st,,,4,,Family,No,Low
+2025-01-01 00:00,24,9.7,Female,1st,,,2,,Exams,No,Low
+2025-01-01 00:00,19,8.46,Female,1st,,,2,,Exams,No,Medium
+2025-01-01 00:00,24,9.22,Male,2nd,,,2,,Social Media,Yes,Medium
+2025-01-01 00:00,20,7.79,Male,2nd,,,4,,Social Media,No,Medium
+2025-01-01 00:00,23,9.44,Female,3rd,,,1,,Assignments,No,High
+2025-01-01 00:00,22,6.75,Male,2nd,,,6,,Exams,No,Low
+2025-01-01 00:00,21,5.33,Male,1st,,,8,,Family,No,High
+2025-01-01 00:00,22,8.69,Male,4th,,,2,,Exams,No,Low
+2025-01-01 00:00,18,5.18,Male,1st,,,9,,Assignments,Yes,Low
+2025-01-01 00:00,19,4.21,Male,2nd,,,9,,Family,Yes,Low
+2025-01-01 00:00,20,5.07,Female,3rd,,,10,,Social Media,Yes,Low
+2025-01-01 00:00,19,8.76,Male,1st,,,3,,Exams,No,High
+2025-01-01 00:00,18,9.47,Male,4th,,,3,,Assignments,No,High
+2025-01-01 00:00,21,9.74,Male,2nd,,,1,,Family,No,Low
+2025-01-01 00:00,20,5.44,Male,2nd,,,7,,Social Media,No,Medium
+2025-01-01 00:00,19,4.63,Female,1st,,,9,,Family,No,Low
+2025-01-01 00:00,18,9.43,Male,2nd,,,2,,Exams,No,High
+2025-01-01 00:00,18,4.57,Male,1st,,,7,,Exams,No,Low
+2025-01-01 00:00,20,8.79,Male,3rd,,,1,,Family,Yes,Medium
+2025-01-01 00:00,20,5.32,Male,1st,,,7,,Exams,Yes,Medium
+2025-01-01 00:00,21,6.86,Male,3rd,,,5,,Assignments,No,High
+2025-01-01 00:00,19,4.34,Female,3rd,,,9,,Family,Yes,Low
+2025-01-01 00:00,24,8.8,Male,3rd,,,3,,Assignments,Yes,Medium
+2025-01-01 00:00,19,4.41,Male,1st,,,9,,Exams,Yes,High
+2025-01-01 00:00,22,5.13,Male,2nd,,,8,,Assignments,No,Medium
+2025-01-01 00:00,20,8.59,Female,2nd,,,3,,Exams,No,Medium
+2025-01-01 00:00,20,6.39,Female,2nd,,,5,,Assignments,Yes,High
+2025-01-01 00:00,22,4.7,Female,2nd,,,10,,Family,No,Low
+2025-01-01 00:00,18,6.92,Female,3rd,,,4,,Assignments,No,Medium
+2025-01-01 00:00,18,9.23,Female,4th,,,2,,Social Media,No,Medium
+2025-01-01 00:00,23,7.09,Female,3rd,,,4,,Assignments,Yes,High
+2025-01-01 00:00,22,9.55,Male,4th,,,1,,Assignments,Yes,Low
+2025-01-01 00:00,22,8.54,Female,4th,,,1,,Family,No,Low
+2025-01-01 00:00,24,5.51,Female,1st,,,10,,Assignments,Yes,Low
+2025-01-01 00:00,23,9.22,Male,3rd,,,3,,Family,Yes,High
+2025-01-01 00:00,22,5.09,Male,4th,,,9,,Assignments,No,High
+2025-01-01 00:00,24,9.35,Male,3rd,,,1,,Assignments,Yes,Medium
+2025-01-01 00:00,20,6.93,Male,2nd,,,5,,Exams,Yes,High
+2025-01-01 00:00,21,5.69,Male,4th,,,7,,Assignments,No,Medium
+2025-01-01 00:00,20,9.43,Male,1st,,,2,,Assignments,Yes,Medium
+2025-01-01 00:00,20,4.92,Female,1st,,,7,,Exams,Yes,Low
+2025-01-01 00:00,22,7.69,Male,1st,,,5,,Assignments,Yes,Medium
+2025-01-01 00:00,22,6.39,Male,4th,,,5,,Social Media,No,Medium
+2025-01-01 00:00,18,8.93,Male,3rd,,,1,,Family,No,High
+2025-01-01 00:00,19,8.65,Male,1st,,,3,,Family,No,Low
+2025-01-01 00:00,19,8.72,Female,4th,,,1,,Family,Yes,Medium
+2025-01-01 00:00,23,4.62,Female,3rd,,,8,,Exams,Yes,Medium
+2025-01-01 00:00,23,7.65,Female,1st,,,5,,Exams,No,Medium
+2025-01-01 00:00,18,4.23,Male,3rd,,,8,,Social Media,No,Medium
+2025-01-01 00:00,23,4.75,Female,4th,,,10,,Family,Yes,Medium
+2025-01-01 00:00,21,9.19,Male,2nd,,,2,,Exams,No,Medium
+2025-01-01 00:00,24,6.68,Female,4th,,,6,,Exams,No,High
+2025-01-01 00:00,18,6.69,Male,3rd,,,5,,Exams,Yes,Low
+2025-01-01 00:00,21,8.81,Male,2nd,,,1,,Exams,Yes,Low
+2025-01-01 00:00,24,6.91,Male,2nd,,,5,,Exams,No,Medium
+2025-01-01 00:00,24,9.74,Female,4th,,,3,,Family,Yes,Low
+2025-01-01 00:00,21,5.07,Female,2nd,,,7,,Assignments,Yes,Low
+2025-01-01 00:00,20,9.63,Male,1st,,,3,,Exams,Yes,Low
+2025-01-01 00:00,23,6.75,Male,4th,,,6,,Exams,Yes,High
+2025-01-01 00:00,23,4.36,Female,1st,,,8,,Family,Yes,Medium
+2025-01-01 00:00,23,5.44,Male,4th,,,10,,Social Media,No,Low
+2025-01-01 00:00,23,5.1,Male,2nd,,,8,,Family,No,Low
+2025-01-01 00:00,22,7.41,Female,1st,,,4,,Exams,No,High
+2025-01-01 00:00,23,5.68,Male,4th,,,10,,Family,No,High
+2025-01-01 00:00,19,8.28,Female,4th,,,1,,Assignments,Yes,Medium
+2025-01-01 00:00,19,8.57,Female,2nd,,,3,,Social Media,Yes,Low
+2025-01-01 00:00,24,4.74,Male,1st,,,10,,Exams,Yes,Medium
+2025-01-01 00:00,21,6.68,Male,1st,,,5,,Exams,Yes,Low
+2025-01-01 00:00,20,5.59,Female,4th,,,9,,Assignments,Yes,Low
+2025-01-01 00:00,18,5.21,Female,4th,,,10,,Social Media,No,High
+2025-01-01 00:00,18,9.74,Male,4th,,,1,,Family,Yes,Low
+2025-01-01 00:00,22,6.86,Female,2nd,,,6,,Exams,No,Low
+2025-01-01 00:00,23,7.15,Male,2nd,,,6,,Assignments,Yes,Low
+2025-01-01 00:00,22,5.74,Male,4th,,,7,,Social Media,No,High
+2025-01-01 00:00,18,5.28,Female,2nd,,,9,,Assignments,No,Low
+2025-01-01 00:00,23,5.06,Male,1st,,,8,,Social Media,Yes,High
+2025-01-01 00:00,22,8.87,Male,1st,,,1,,Assignments,Yes,High
+2025-01-01 00:00,18,7.8,Female,3rd,,,5,,Family,Yes,Medium
+2025-01-01 00:00,24,6.84,Female,1st,,,5,,Family,No,High
+2025-01-01 00:00,23,5.62,Male,4th,,,10,,Social Media,Yes,Medium
+2025-01-01 00:00,18,9.69,Female,4th,,,1,,Exams,Yes,Low
+2025-01-01 00:00,24,6.74,Female,4th,,,4,,Exams,No,Medium
+2025-01-01 00:00,24,5.34,Male,4th,,,8,,Exams,Yes,High
+2025-01-01 00:00,24,8.71,Female,4th,,,3,,Social Media,Yes,Medium
+2025-01-01 00:00,21,5.56,Male,1st,,,7,,Social Media,Yes,High
+2025-01-01 00:00,20,8.64,Male,2nd,,,3,,Exams,No,Medium
+2025-01-01 00:00,19,7.46,Female,4th,,,5,,Family,Yes,Low
+2025-01-01 00:00,24,6.66,Male,1st,,,5,,Assignments,Yes,Medium
+2025-01-01 00:00,24,8.38,Male,3rd,,,1,,Exams,No,Medium
+2025-01-01 00:00,21,5.76,Female,4th,,,8,,Assignments,No,Low
+2025-01-01 00:00,18,7.3,Female,4th,,,5,,Social Media,Yes,High
+2025-01-01 00:00,22,8.62,Female,2nd,,,2,,Social Media,Yes,High
+2025-01-01 00:00,24,4.4,Female,2nd,,,7,,Assignments,No,High
+2025-01-01 00:00,19,7.41,Male,4th,,,5,,Social Media,No,Medium
+2025-01-01 00:00,23,8.46,Female,1st,,,3,,Family,Yes,High
+2025-01-01 00:00,20,7.23,Female,3rd,,,4,,Social Media,Yes,High
+2025-01-01 00:00,21,7.72,Female,4th,,,5,,Family,No,Low
+2025-01-01 00:00,18,7.3,Female,4th,,,6,,Assignments,No,Medium
+2025-01-01 00:00,24,5.67,Male,2nd,,,9,,Exams,No,High
+2025-01-01 00:00,18,8.78,Female,3rd,,,2,,Social Media,No,Medium
+2025-01-01 00:00,20,4.87,Male,1st,,,8,,Exams,Yes,High
+2025-01-01 00:00,24,4.47,Male,4th,,,7,,Social Media,No,Low
+2025-01-01 00:00,20,7.01,Female,4th,,,4,,Family,Yes,Medium
+2025-01-01 00:00,18,5.79,Female,4th,,,7,,Exams,Yes,High
+2025-01-01 00:00,21,7.36,Male,3rd,,,5,,Assignments,No,High
+2025-01-01 00:00,18,8.68,Female,3rd,,,3,,Assignments,No,Low
+2025-01-01 00:00,20,8.6,Male,4th,,,1,,Social Media,No,Medium
+2025-01-01 00:00,19,6.24,Female,4th,,,5,,Social Media,Yes,High
+2025-01-01 00:00,22,7.28,Female,2nd,,,4,,Exams,Yes,High
+2025-01-01 00:00,22,5.6,Female,2nd,,,8,,Family,Yes,High
+2025-01-01 00:00,20,8.65,Male,4th,,,2,,Social Media,Yes,Low
+2025-01-01 00:00,22,6.55,Male,2nd,,,4,,Social Media,No,Low
+2025-01-01 00:00,23,6.97,Female,4th,,,6,,Social Media,Yes,Low
+2025-01-01 00:00,18,4.23,Female,3rd,,,10,,Assignments,Yes,High
+2025-01-01 00:00,22,4.31,Female,4th,,,10,,Assignments,Yes,Low
+2025-01-01 00:00,24,9.05,Female,4th,,,2,,Exams,Yes,Medium
+2025-01-01 00:00,23,5.2,Male,3rd,,,8,,Exams,Yes,High
+2025-01-01 00:00,24,5.73,Male,1st,,,7,,Exams,Yes,Medium
+2025-01-01 00:00,24,8.24,Female,4th,,,1,,Exams,Yes,Low
+2025-01-01 00:00,19,4.64,Male,4th,,,8,,Assignments,Yes,Low
+2025-01-01 00:00,23,8.9,Female,2nd,,,1,,Exams,Yes,Medium
+2025-01-01 00:00,23,4.72,Female,3rd,,,9,,Exams,No,Medium
+2025-01-01 00:00,19,9.52,Male,1st,,,1,,Social Media,Yes,High
+2025-01-01 00:00,20,4.7,Male,4th,,,8,,Exams,No,High
+2025-01-01 00:00,23,7.25,Female,2nd,,,5,,Exams,No,Low
+2025-01-01 00:00,24,6.21,Male,4th,,,4,,Social Media,No,Medium
+2025-01-01 00:00,23,7.64,Male,3rd,,,5,,Assignments,No,Low
+2025-01-01 00:00,21,4.5,Male,2nd,,,10,,Family,Yes,Medium
+2025-01-01 00:00,22,7.15,Female,3rd,,,4,,Assignments,No,High
+2025-01-01 00:00,22,5.6,Female,2nd,,,8,,Social Media,Yes,High
+2025-01-01 00:00,18,8.67,Female,1st,,,2,,Exams,No,High
+2025-01-01 00:00,21,7.01,Male,3rd,,,4,,Assignments,No,Low
+2025-01-01 00:00,24,7.06,Female,2nd,,,6,,Exams,No,Low
+2025-01-01 00:00,24,8.89,Male,2nd,,,3,,Family,Yes,High
+2025-01-01 00:00,20,9.8,Male,4th,,,3,,Assignments,Yes,High
+2025-01-01 00:00,20,4.73,Male,1st,,,9,,Family,No,Low
+2025-01-01 00:00,23,8.33,Male,3rd,,,2,,Family,Yes,Medium
+2025-01-01 00:00,21,7.79,Female,1st,,,6,,Assignments,Yes,High
+2025-01-01 00:00,18,8.82,Female,1st,,,1,,Assignments,Yes,High
+2025-01-01 00:00,21,4.86,Male,2nd,,,8,,Social Media,No,Medium
+2025-01-01 00:00,21,8.44,Female,2nd,,,1,,Family,No,Low
+2025-01-01 00:00,22,5.23,Male,4th,,,9,,Exams,No,Low
+2025-01-01 00:00,20,8.48,Male,3rd,,,1,,Assignments,No,Low
