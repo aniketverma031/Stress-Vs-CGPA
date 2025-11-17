@@ -17,9 +17,7 @@ A Streamlit-based frontend allows users to input details and instantly get predi
 
 ## 🌐 Deployment
 **Live App URL:**  
-👉 *Add your Streamlit Cloud link here after deployment*  
-Example format:  
-`https://your-app-name.streamlit.app`
+👉 https://stressvscgpa.streamlit.app/
 
 ---
 
